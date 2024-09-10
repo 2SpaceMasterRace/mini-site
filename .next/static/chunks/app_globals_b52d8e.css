@@ -561,10 +561,6 @@
     container-type: inline-size;
   }
 
-  .\@container-\[inline-size\] {
-    container-type: inline-size;
-  }
-
   .pointer-events-auto {
     pointer-events: auto;
   }
@@ -628,16 +624,8 @@
     position: absolute;
   }
 
-  .absolute\! {
-    position: absolute !important;
-  }
-
   .fixed {
     position: fixed;
-  }
-
-  .fixed\! {
-    position: fixed !important;
   }
 
   .relative {
@@ -944,16 +932,8 @@
     display: grid;
   }
 
-  .grid\! {
-    display: grid !important;
-  }
-
   .hidden {
     display: none;
-  }
-
-  .hidden\! {
-    display: none !important;
   }
 
   .inline {
@@ -1067,10 +1047,6 @@
 
   .w-1 {
     width: var(--spacing-1, .25rem);
-  }
-
-  .w-1\/2 {
-    width: 50%;
   }
 
   .w-2 {
@@ -1225,10 +1201,6 @@
 
   .transform {
     transform: var(--tw-rotate-x) var(--tw-rotate-y) var(--tw-rotate-z) var(--tw-skew-x) var(--tw-skew-y);
-  }
-
-  .transform\! {
-    transform: var(--tw-rotate-x) var(--tw-rotate-y) var(--tw-rotate-z) var(--tw-skew-x) var(--tw-skew-y) !important;
   }
 
   .transform-cpu {
@@ -1970,36 +1942,12 @@
     border-color: var(--color-gray-300, #d1d5db);
   }
 
-  .bg-\[\#0088cc\] {
-    background-color: #08c;
-  }
-
-  .bg-\[--my_variable\] {
-    background-color: var(--my_variable);
-  }
-
-  .bg-\[color\:--my-color\] {
-    background-color: var(--my-color);
-  }
-
   .bg-blue-200 {
     background-color: var(--color-blue-200, #bfdbfe);
   }
 
   .bg-red-500 {
     background-color: var(--color-red-500, #ef4444);
-  }
-
-  .bg-red-500\/50 {
-    background-color: color-mix(in srgb, var(--color-red-500, #ef4444) 50%, transparent);
-  }
-
-  .bg-red-500\/\[--my_variable\] {
-    background-color: color-mix(in srgb, var(--color-red-500, #ef4444) calc(var(--my_variable) * 100%), transparent);
-  }
-
-  .bg-red-500\/\[50\%\] {
-    background-color: color-mix(in srgb, var(--color-red-500, #ef4444) 50%, transparent);
   }
 
   .bg-white {
@@ -2302,10 +2250,6 @@
     line-height: var(--font-size-sm--line-height, 1.25rem);
   }
 
-  .text-\[80px\] {
-    font-size: 80px;
-  }
-
   .font-black {
     font-weight: 900;
   }
@@ -2452,18 +2396,6 @@
 
   .tracking-tight {
     letter-spacing: var(--letter-spacing-tight, -.025em);
-  }
-
-  .\[color\:red\] {
-    color: red;
-  }
-
-  .\[color\:red\]\/50 {
-    color: #ff000080;
-  }
-
-  .\[color\:red\]\/50\! {
-    color: #ff000080 !important;
   }
 
   .text-blue-500 {
@@ -2831,18 +2763,6 @@
 
   .forced-color-adjust-none {
     forced-color-adjust: none;
-  }
-
-  .\[a-zA-Z0-9\:\\\\-\\\\\._\$\] {
-    a-zA-Z0-9: \\-\\. $ ;
-  }
-
-  .\[hash\:8\] {
-    hash: 8;
-  }
-
-  .\[hash\:base64\] {
-    hash: base64;
   }
 
   .\[scrollbar-gutter\:stable\] {
