@@ -42,7 +42,7 @@ function Footer() {
     { name: 'github', url: 'https://github.com/2SpaceMasterRace' },
     { name: 'twitter', url: 'https://x.com/nanod1jkstra' },
     { name: 'linkedin', url: 'https://www.linkedin.com/in/harivarshav' },
-    { name: 'reading-group', url: 'https://readymag.website/u2920188154/4664937/' },
+    { name: 'reading-group', url: 'https://github.com/Amrita-Systems-Reading-Group' },
   ];
 
   return (
