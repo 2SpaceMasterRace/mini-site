@@ -42,7 +42,7 @@ function Footer() {
     { name: 'github', url: 'https://github.com/2SpaceMasterRace' },
     { name: 'twitter', url: 'https://x.com/nanod1jkstra' },
     { name: 'linkedin', url: 'https://www.linkedin.com/in/harivarshav' },
-    { name: 'reading-group', url: 'https://github.com/Amrita-Systems-Reading-Group' },
+    { name: 'reading-group', url: 'https://github.com/Arcane-Systems-Reading-Group' },
   ];
 
   return (
