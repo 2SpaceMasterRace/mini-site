@@ -59,7 +59,7 @@ const metadata = {
         default: 'Hari Varsha',
         template: '%s | Hari Varsha'
     },
-    description: 'systems programming  ✦ machine learning  ✦   multidisciplinary front-end engineering'
+    description: 'systems programming  ✦ machine learning  ✦ multidisciplinary front-end engineering'
 };
 function RootLayout({ children }) {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2d$view$2d$transitions$2f$dist$2f$index$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["ViewTransitions"], {
@@ -114,6 +114,10 @@ function RootLayout({ children }) {
 function Footer() {
     const links = [
         {
+            name: 'mail',
+            url: 'mailto:v.harivarsha@gmail.com'
+        },
+        {
             name: 'github',
             url: 'https://github.com/2SpaceMasterRace'
         },
@@ -127,7 +131,7 @@ function Footer() {
         },
         {
             name: 'reading-group',
-            url: 'github.com/Amrita-Systems-Reading-Group'
+            url: 'https://github.com/Arcane-Systems-Reading-Group'
         }
     ];
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("footer", {
@@ -142,17 +146,17 @@ function Footer() {
                     children: link.name
                 }, link.name, false, {
                     fileName: "[project]/app/layout.tsx",
-                    lineNumber: 52,
+                    lineNumber: 53,
                     columnNumber: 11
                 }, this))
         }, void 0, false, {
             fileName: "[project]/app/layout.tsx",
-            lineNumber: 50,
+            lineNumber: 51,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/app/layout.tsx",
-        lineNumber: 49,
+        lineNumber: 50,
         columnNumber: 5
     }, this);
 }
@@ -177,24 +181,26 @@ const mod = __turbopack_external_require__("url");
 module.exports = mod;
 
 }.call(this) }),
-"[project]/app/favicon.ico [app-rsc] (static)": (() => {{
+"[project]/app/favicon.ico [app-rsc] (static)": (({ r: __turbopack_require__, f: __turbopack_module_context__, i: __turbopack_import__, s: __turbopack_esm__, v: __turbopack_export_value__, n: __turbopack_export_namespace__, c: __turbopack_cache__, M: __turbopack_modules__, l: __turbopack_load__, j: __turbopack_dynamic__, P: __turbopack_resolve_absolute_path__, U: __turbopack_relative_url__, R: __turbopack_resolve_module_id_path__, g: global, __dirname }) => (() => {
 
-throw new Error("An error occurred while generating the chunk item [project]/app/favicon.ico [app-rsc] (static)\n\nCaused by:\n- StaticAsset::path: not found\n\nDebug info:\n- An error occurred while generating the chunk item [project]/app/favicon.ico [app-rsc] (static)\n- Execution of *EcmascriptChunkItemContent::module_factory failed\n- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content failed\n- Execution of *<NodeJsChunkingContext as ChunkingContext>::asset_url failed\n- Execution of <StaticAsset as OutputAsset>::ident failed\n- StaticAsset::path: not found");
+__turbopack_export_value__("/_next/static/media/favicon.7fbe0e04.ico");
+})()),
+"[project]/app/favicon.ico.mjs { IMAGE => \"[project]/app/favicon.ico [app-rsc] (static)\" } [app-rsc] (structured image object, ecmascript)": (({ r: __turbopack_require__, f: __turbopack_module_context__, i: __turbopack_import__, s: __turbopack_esm__, v: __turbopack_export_value__, n: __turbopack_export_namespace__, c: __turbopack_cache__, M: __turbopack_modules__, l: __turbopack_load__, j: __turbopack_dynamic__, P: __turbopack_resolve_absolute_path__, U: __turbopack_relative_url__, R: __turbopack_resolve_module_id_path__, g: global, __dirname, x: __turbopack_external_require__, y: __turbopack_external_import__ }) => (() => {
+"use strict";
 
-}}),
-"[project]/app/favicon.ico.mjs { IMAGE => \"[project]/app/favicon.ico [app-rsc] (static)\" } [app-rsc] (structured image object, ecmascript)": (function({ r: __turbopack_require__, f: __turbopack_module_context__, i: __turbopack_import__, s: __turbopack_esm__, v: __turbopack_export_value__, n: __turbopack_export_namespace__, c: __turbopack_cache__, M: __turbopack_modules__, l: __turbopack_load__, j: __turbopack_dynamic__, P: __turbopack_resolve_absolute_path__, U: __turbopack_relative_url__, R: __turbopack_resolve_module_id_path__, g: global, __dirname, x: __turbopack_external_require__, y: __turbopack_external_import__, m: module, e: exports, t: require }) { !function() {
+__turbopack_esm__({
+    "default": ()=>__TURBOPACK__default__export__
+});
+var __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$favicon$2e$ico__$5b$app$2d$rsc$5d$__$28$static$29$__ = __turbopack_import__("[project]/app/favicon.ico [app-rsc] (static)");
+"__TURBOPACK__ecmascript__hoisting__location__";
+;
+const __TURBOPACK__default__export__ = {
+    src: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$favicon$2e$ico__$5b$app$2d$rsc$5d$__$28$static$29$__["default"],
+    width: 32,
+    height: 32
+};
 
-const e = new Error(`Could not parse module '[project]/app/favicon.ico.mjs'
-
-Input image not found
-
-Debug info:
-- Execution of <StructuredImageFileSource as Asset>::content failed
-- Execution of get_meta_data failed
-- Input image not found`);
-e.code = 'MODULE_UNPARSEABLE';
-throw e;
-}.call(this) }),
+})()),
 "[externals]/ [external] (next/dist/client/components/static-generation-async-storage.external.js, cjs)": (function({ r: __turbopack_require__, f: __turbopack_module_context__, i: __turbopack_import__, s: __turbopack_esm__, v: __turbopack_export_value__, n: __turbopack_export_namespace__, c: __turbopack_cache__, M: __turbopack_modules__, l: __turbopack_load__, j: __turbopack_dynamic__, P: __turbopack_resolve_absolute_path__, U: __turbopack_relative_url__, R: __turbopack_resolve_module_id_path__, g: global, __dirname, x: __turbopack_external_require__, y: __turbopack_external_import__, m: module, e: exports, t: require }) { !function() {
 
 const mod = __turbopack_external_require__("next/dist/client/components/static-generation-async-storage.external.js");
