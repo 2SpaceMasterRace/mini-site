@@ -39,6 +39,7 @@ export default function RootLayout({
 
 function Footer() {
   const links = [
+    { name: 'mail', url: 'mailto:v.harivarsha@gmail.com' },
     { name: 'github', url: 'https://github.com/2SpaceMasterRace' },
     { name: 'twitter', url: 'https://x.com/nanod1jkstra' },
     { name: 'linkedin', url: 'https://www.linkedin.com/in/harivarshav' },

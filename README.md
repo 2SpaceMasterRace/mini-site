@@ -11,7 +11,7 @@ This application requires Node.js v18.17+.
 git clone https://github.com/2SpaceMasterRace/mini-site.git
 cd mini-site
 bun install
-bun dev
+bun run dev
 ```
 ## Credits
 Inspiration from [Lee Rob](https://github.com/leerob)
