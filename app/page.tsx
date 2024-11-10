@@ -42,7 +42,7 @@ export default function Home() {
           Hi! I'm <b>Hari Varsha</b>, better known as vxsha-256 or nanodijkstra around the internet. From an early age, I’ve been captivated by computers, spending almost all my free time playing Pokémon MMOs, cracking old-school video games, and doomscrolling through internet forums learning random trivia in the process.
         </p>
         <p>
-          I'm a fresh Electrical and Computer Engineering grad. I've hacked around everything fun from <b>large-language models</b> to <b>embedded microcontrollers</b> and worked as a Summer Research Intern @ <b>UCSC (Go Slugs!)</b> and as a lab member for over a year. Major objective is to move to the magical city of San Francisco, California, or even New York City, New York to kickstart my career.
+          I'm a fresh Electrical and Computer Engineering grad. I've hacked around everything fun from <b>large-language models</b> to <b>embedded microcontrollers</b> and worked as a Summer Research Intern @ <b>UCSC (Go Slugs!)</b> and as a lab member for over a year. Major objective right now is to move to the magical city of San Francisco, California, or even New York City, New York to kickstart my career.
         </p>
         <p>
           Over the years, I’ve become deeply entrenched in the world of <b>deep systems programming, AI research, game engine development, and cloud infrastructure</b>. Apart from intense hacking, I like consuming comics like XKCD and SMBC, reading Hacker News and Lobste.rs threads, watching conference talks and especially appreciate essays from cool people like Paul Graham, Joel Spolsky, etc.
@@ -112,7 +112,7 @@ export default function Home() {
 
 
       <h4 className="font-semibold pt-4">✦ Large-scale Backend Engineering & Low-latency Applications </h4>
-      I tend to see Backend engineering in terms of moving data seamlessly and have been building low-latency applications focused around performance, availability and consistency. One of my key interests is pushing the boundaries of what modern cloud computing can achieve with tools like WebAssembly and programming models like Distributed Async Await and reading niche technical blogs.
+      I build low-latency applications focused around performance, availability and consistency and tend to see Backend engineering in terms of moving data seamlessly. One of my key interests is pushing the boundaries of what modern cloud computing can achieve with tools like WebAssembly and programming models like Distributed Async Await and reading niche technical blogs.
 
       <h4 className="font-semibold pt-4">✦ High-Performance Serverless Platforms & ML Infrastructure </h4>
       I'm deeply interested in the intersection of deploying on bare-metal machines and machine learning systems with a particular emphasis on the software side of things. As a proud supporter of self-host movement and managing dedicated servers, I have experience with private networking and cloud-native observability tools and an unhealthy interest with  High Frequency Trading & Compute Trading Platforms. I'm fascinated with orchestration engines, block storage systems and schedulers.
