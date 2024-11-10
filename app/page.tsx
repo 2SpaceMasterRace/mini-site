@@ -39,22 +39,22 @@ export default function Home() {
       <AnimatedName />
       <div className="text-gray-800 space-y-4 leading-snug">
         <p>
-          Hi! I'm <b>Hari Varsha</b>, better known as vxsha-256 or nanodijkstra around the internet. From an early age, I’ve been captivated by computers, spending almost all my free time playing Pokemon MMOs, cracking old-school video games, and doomscrolling through internet forums learning random trivia in the process.
+          Hi! I'm <b>Hari Varsha</b>, better known as vxsha-256 or nanodijkstra around the internet. From an early age, I’ve been captivated by computers, spending almost all my free time playing Pokémon MMOs, cracking old-school video games, and doomscrolling through internet forums learning random trivia in the process.
         </p>
         <p>
-          I'm a fresh Electrical and Computer Engineering grad. I've hacked around everything fun from <b>large-language models</b> to <b>embedded microcontrollers</b> and worked as a Summer Research Intern @ <b>UCSC (Go Slugs!)</b> and as a lab member for over a year. I plan to move to the magical city of San Francisco, California, or New York City, New York to kickstart my career.
+          I'm a fresh Electrical and Computer Engineering grad. I've hacked around everything fun from <b>large-language models</b> to <b>embedded microcontrollers</b> and worked as a Summer Research Intern @ <b>UCSC (Go Slugs!)</b> and as a lab member for over a year. Major objective is to move to the magical city of San Francisco, California, or even New York City, New York to kickstart my career.
         </p>
         <p>
           Over the years, I’ve become deeply entrenched in the world of <b>deep systems programming, AI research, game engine development, and cloud infrastructure</b>. Apart from intense hacking, I like consuming comics like XKCD and SMBC, reading Hacker News and Lobste.rs threads, watching conference talks and especially appreciate essays from cool people like Paul Graham, Joel Spolsky, etc.
         </p>
         <p>
-          I run the <b>Arcane Systems Reading Group</b>, a collective of systems nerds who explore niche topics like compilers, operating-systems, distributed systems, low-latency systems, and performance engineering. My career goals can essentially be boiled down to producing the same influence as YEAT, DVRST, Playboi Carti, and <strong>Kendrick Lamar but for computer science</strong> as a whole.
+          I run the <b>Arcane Systems Reading Group</b>, a collective of systems nerds who explore niche topics like compilers, operating systems, distributed systems, low-latency systems, and performance engineering. My career goals can essentially be boiled down to producing the same influence as YEAT, DVRST, Playboi Carti, and <strong>Kendrick Lamar but for computer science</strong> as a whole.
         </p>
 
         <h2 className="font-semibold pt-4">Current</h2>
         <div className="bg-gray-100 border-l-4 border-blue-500 text-gray-700 p-4 my-4">
           <p>
-            🚨 I am currently applying to graduate programs for computer science for Fall 2025, and I'm <b>open to MS/PhD programs</b>. If you'd like a hardworking & passionate student on your team, please reach out to any of my contacts found in the bottom of this website. Thank you so much for your consideration!   🚨
+            🚨 I am currently applying to graduate programs for computer science for Fall 2025, and I'm <b>open to MS/PhD programs</b>. If you'd like a hardworking & passionate student on your team, please reach out to any of my contacts found in the bottom of this website. Thank you so much for your consideration !   🚨
           </p>
         </div>
         <p>
@@ -69,10 +69,10 @@ export default function Home() {
         </p>
         <ul className="list-disc pl-6 space-y-2">
           <li>
-            <b>Memspect</b> [C, Rust, LLVM]: A cool static analysis framework for real-world C codebases. Focuses on fast and accurate memory debugging. Gained deep compiler internals knowledge as part of the process. Started off as a final-year project and was presented at two separate conferences.
+            <b>Memspect</b> [C, Rust, LLVM]: A cool static analysis framework for real-world C codebases. Focuses on fast and accurate memory debugging. Gained deep compiler internals knowledge as part of the process. Started off as a final-year project and was presented at two seperate conferences.
           </li>
           <li>
-            <b>ART.tv</b> [Typescript, Go]: I’ve always loved films, so it only makes sense I build a streaming platform for indie movies. Inspired by Mubi and Twitch, this is my full-stack project where I allow creators to showcase their arthouse and foreign language films while enabling me to build a real-world product.
+            <b>ART.tv</b> [Typescript, Go]: I’ve always loved films, so it only makes sense I build a streaming platform for indie movies. Inspired by Mubi and Twitch, this is my full-stack project where I allow creators to showcase their arthouse and foreign language films while giving me the opportunity to build a real-world product.
           </li>
           <li>
             <b>Cherenkov</b> [Rust, Go]: After participating in Andreas Kling’s Browser Jam, I decided to build a minimal, full-fledged Vim-Based web browser. This is more of a toy project to understand browser engineering.
@@ -91,7 +91,7 @@ export default function Home() {
           </li>
         </ul>
         <p>
-          <strong> Future Projects</strong> include an optimized container runtime, experimental file-system to compete with ZFS & BTRFS, a GPU-aware scheduler for serverless platforms, MapReduce from scratch, tiny open-source machine learning compiler, petabyte-scale geo-distributed storage system, search engine for metadata & logs, distributed computing framework for fun and profit, inference engine from scratch, library containing state-of-the-art algorithms for distributed deep learning and building my own network stack for p2p file sharing and custom GPU orchestrator.
+          <strong> Future Projects</strong> include an optimized container runtime, experimental file-system to compete with ZFS & BTRFS, a GPU-aware scheduler for serverless platforms, MapReduce from scratch, tiny open-source machine learning compiler, petabyte-scale geo-distributed storage system, search engine for metadata & logs, distributed computing framework for fun and profit, inference engine from scratch, library containing state-of-the-art algorithms for distributed deep learning, building my own network stack for p2p file sharing and custom GPU orchestrator.
         </p>
       </div>
       <h2 className="font-semibold pt-4">Career Interests</h2>
@@ -105,23 +105,23 @@ export default function Home() {
       One of my primary interests lies in making supercomputers more efficient. I'm pumped to gain hands-on experience in building systems that distribute training across massive GPU clusters. I'm also captivated by the challenges of scaling the training stack and breaking down distributed storage systems such as Weka and Ceph. I'll be experimenting more with consensus algorithms and etcd.
 
       <h4 className="font-semibold pt-4">✦ Custom GPU Kernels for Machine Learning </h4>
-      I’ve always had a deep fascination with GPUs ever since I played Crysis 3 as a kid. Now, I explore ways of writing my own high-performance GPU/CPU compute kernels out for fun and that led me down a rabbit hole of optimizing CUDA kernels for TPUs, GPUs & AWS Trainium. I'd like to see how far I can push modern-day GPUs by studying the performance characteristics of various GPU architectures and optimizing the compiler to leverage their hardware features like tensor cores.
+      I’ve always had a deep fascination with GPUs ever since I played Crysis 3 as a kid. Now, I explore ways of writing my own high-performance GPU/CPU compute kernels for fun and that led me down a rabbit hole of optimizing CUDA kernels for TPUs, GPUs & AWS Trainium. I'd like to see how far I can push modern-day GPUs by studying the performance characteristics of various GPU architectures and optimizing the compiler to leverage their hardware features like tensor cores.
 
       <h4 className="font-semibold pt-4">✦ Creative Frontend Engineering & Interaction Design </h4>
-      As an interactive designer and creative front-end engineer, the web is just another canvas for me to create art and express stories. I am particularly fascinated by the challenge of delivering beautifully designed websites like those in Awwwards or Godly that are also fine-tuned for performance. I embrace keeping things simple like how Frontend Masters and Excalidraw do it. I consider them to be a masterclass in front-end engineering after learning their design choices and just the overall experience.
+      As an interactive designer and creative front-end engineer, the web is just another canvas for me to create art and express stories. I am particularly fascinated by the challenge of delivering beautifully designed websites like those in Awwwards or Godly that are also fine-tuned for performance. I embrace keeping things simple like how Frontend Masters and Excalidraw do it. I consider them to be a masterclass in front-end engineering after learning their design choices and philosophy.
 
 
       <h4 className="font-semibold pt-4">✦ Large-scale Backend Engineering & Low-latency Applications </h4>
-      I tend to see Backend engineering in terms of moving data seamlessly so it only makes sense I like building and maintaining high-performance, low-latency streaming engines. One of my key interests is pushing the boundaries of what modern cloud computing can achieve with tools like WebAssembly and programming models like Distributed Async Await and reading technical blogs from big-tech companies.
+      I tend to see Backend engineering in terms of moving data seamlessly and have been building low-latency applications focused around performance, availability and consistency. One of my key interests is pushing the boundaries of what modern cloud computing can achieve with tools like WebAssembly and programming models like Distributed Async Await and reading niche technical blogs.
 
       <h4 className="font-semibold pt-4">✦ High-Performance Serverless Platforms & ML Infrastructure </h4>
-      I'm deeply interested in the intersection of deploying in bare-metal and machine learning systems with a particular emphasis on the software side of things. As a proud supporter of self-host movement and managing dedicated servers, I have experience with private networking and cloud-native observability tools and an unhealthy interest with  High Frequency Trading & Compute Trading Platforms. I'm fascinated with orchestration engines, block storage systems and schedulers.
+      I'm deeply interested in the intersection of deploying on bare-metal machines and machine learning systems with a particular emphasis on the software side of things. As a proud supporter of self-host movement and managing dedicated servers, I have experience with private networking and cloud-native observability tools and an unhealthy interest with  High Frequency Trading & Compute Trading Platforms. I'm fascinated with orchestration engines, block storage systems and schedulers.
 
 
       <h2 className="font-semibold pt-8">Connect</h2>
       <center>
         <blockquote>
-          <i>" It takes a village to raise a child "</i>
+          <i>“ It takes a village to raise a child ”</i>
         </blockquote>
         <i>  - African Proverb</i>
       </center>
