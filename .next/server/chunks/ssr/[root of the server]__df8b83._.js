@@ -267,7 +267,7 @@ function Home() {
                             }, void 0, false, {
                                 fileName: "[project]/app/page.tsx",
                                 lineNumber: 45,
-                                columnNumber: 95
+                                columnNumber: 104
                             }, this),
                             " to ",
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("b", {
@@ -275,7 +275,7 @@ function Home() {
                             }, void 0, false, {
                                 fileName: "[project]/app/page.tsx",
                                 lineNumber: 45,
-                                columnNumber: 127
+                                columnNumber: 136
                             }, this),
                             " and worked as a Summer Research Intern @ ",
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("b", {
@@ -283,14 +283,14 @@ function Home() {
                             }, void 0, false, {
                                 fileName: "[project]/app/page.tsx",
                                 lineNumber: 45,
-                                columnNumber: 201
+                                columnNumber: 210
                             }, this),
                             " and as a lab member for over a year. My dream for now is to move to magical city of San Francisco, California to kickstart my career."
                         ]
                     }, void 0, true, {
                         fileName: "[project]/app/page.tsx",
                         lineNumber: 44,
-                        columnNumber: 2
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                         children: [
@@ -374,7 +374,7 @@ function Home() {
                             }, void 0, false, {
                                 fileName: "[project]/app/page.tsx",
                                 lineNumber: 61,
-                                columnNumber: 24
+                                columnNumber: 33
                             }, this),
                             " and dissecting ",
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("b", {
@@ -382,7 +382,7 @@ function Home() {
                             }, void 0, false, {
                                 fileName: "[project]/app/page.tsx",
                                 lineNumber: 61,
-                                columnNumber: 65
+                                columnNumber: 74
                             }, this),
                             ", watching conferences such as ",
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("b", {
@@ -390,7 +390,7 @@ function Home() {
                             }, void 0, false, {
                                 fileName: "[project]/app/page.tsx",
                                 lineNumber: 61,
-                                columnNumber: 127
+                                columnNumber: 136
                             }, this),
                             ", and implementing research papers like the ",
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("b", {
@@ -398,14 +398,14 @@ function Home() {
                             }, void 0, false, {
                                 fileName: "[project]/app/page.tsx",
                                 lineNumber: 61,
-                                columnNumber: 201
+                                columnNumber: 210
                             }, this),
                             ". Hobbies currently include amateur game development, reading RFC's and learning Japanese. I'll be setting up substack and start streaming development on Twitch soon in the future."
                         ]
                     }, void 0, true, {
                         fileName: "[project]/app/page.tsx",
                         lineNumber: 60,
-                        columnNumber: 2
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                         children: [
@@ -415,7 +415,7 @@ function Home() {
                             }, void 0, false, {
                                 fileName: "[project]/app/page.tsx",
                                 lineNumber: 64,
-                                columnNumber: 34
+                                columnNumber: 43
                             }, this),
                             ", writing and reverse engineering a ",
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("b", {
@@ -423,7 +423,7 @@ function Home() {
                             }, void 0, false, {
                                 fileName: "[project]/app/page.tsx",
                                 lineNumber: 64,
-                                columnNumber: 114
+                                columnNumber: 123
                             }, this),
                             " in C and Zig, and experimenting on ",
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("b", {
@@ -431,7 +431,7 @@ function Home() {
                             }, void 0, false, {
                                 fileName: "[project]/app/page.tsx",
                                 lineNumber: 64,
-                                columnNumber: 176
+                                columnNumber: 185
                             }, this),
                             " to learn them on a deeper level. I'm trying to build a habit of reading technical books and I've been enjoying ",
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("b", {
@@ -439,7 +439,7 @@ function Home() {
                             }, void 0, false, {
                                 fileName: "[project]/app/page.tsx",
                                 lineNumber: 64,
-                                columnNumber: 306
+                                columnNumber: 315
                             }, this),
                             " by Martin Kleppmann & ",
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("b", {
@@ -447,14 +447,14 @@ function Home() {
                             }, void 0, false, {
                                 fileName: "[project]/app/page.tsx",
                                 lineNumber: 64,
-                                columnNumber: 373
+                                columnNumber: 382
                             }, this),
                             " by Éva Tardos. "
                         ]
                     }, void 0, true, {
                         fileName: "[project]/app/page.tsx",
                         lineNumber: 63,
-                        columnNumber: 2
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                         className: "font-semibold pt-4",
@@ -585,7 +585,7 @@ function Home() {
                             }, void 0, true, {
                                 fileName: "[project]/app/page.tsx",
                                 lineNumber: 91,
-                                columnNumber: 4
+                                columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                 children: [
@@ -617,7 +617,7 @@ function Home() {
                             }, void 0, true, {
                                 fileName: "[project]/app/page.tsx",
                                 lineNumber: 97,
-                                columnNumber: 10
+                                columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                 children: [
@@ -649,7 +649,7 @@ function Home() {
                             }, void 0, true, {
                                 fileName: "[project]/app/page.tsx",
                                 lineNumber: 103,
-                                columnNumber: 10
+                                columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
@@ -664,14 +664,14 @@ function Home() {
                             }, void 0, false, {
                                 fileName: "[project]/app/page.tsx",
                                 lineNumber: 108,
-                                columnNumber: 1
+                                columnNumber: 11
                             }, this),
                             " include an optimized container runtime, experimental file-system to compete with ZFS & BTRFS, a GPU-aware scheduler for serverless platforms, MapReduce from scratch, tiny open-source machine learning compiler, petabyte-scale geo-distributed storage system, search engine for metadata & logs, distributed computing framework for fun and profit, inference engine from scratch, libary containing state-of-the-art algorithms for distributed deep learning and building my own network stack and such for p2p file sharing with minimal latency."
                         ]
                     }, void 0, true, {
                         fileName: "[project]/app/page.tsx",
                         lineNumber: 107,
-                        columnNumber: 2
+                        columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
@@ -685,7 +685,7 @@ function Home() {
             }, void 0, false, {
                 fileName: "[project]/app/page.tsx",
                 lineNumber: 111,
-                columnNumber: 9
+                columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                 children: [
@@ -695,7 +695,7 @@ function Home() {
                     }, void 0, false, {
                         fileName: "[project]/app/page.tsx",
                         lineNumber: 113,
-                        columnNumber: 10
+                        columnNumber: 17
                     }, this),
                     " problems and prefer ",
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("b", {
@@ -703,7 +703,7 @@ function Home() {
                     }, void 0, false, {
                         fileName: "[project]/app/page.tsx",
                         lineNumber: 113,
-                        columnNumber: 59
+                        columnNumber: 66
                     }, this),
                     " that just works and stands the test of time. This was inspired by using actually good software that never lets me down and covers all of my uses such as ",
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("b", {
@@ -711,7 +711,7 @@ function Home() {
                     }, void 0, false, {
                         fileName: "[project]/app/page.tsx",
                         lineNumber: 113,
-                        columnNumber: 243
+                        columnNumber: 250
                     }, this),
                     ", etc. I also appreciate and value good documentation, especially ones from ",
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("b", {
@@ -719,7 +719,7 @@ function Home() {
                     }, void 0, false, {
                         fileName: "[project]/app/page.tsx",
                         lineNumber: 113,
-                        columnNumber: 345
+                        columnNumber: 352
                     }, this),
                     " and ",
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("b", {
@@ -727,13 +727,13 @@ function Home() {
                     }, void 0, false, {
                         fileName: "[project]/app/page.tsx",
                         lineNumber: 113,
-                        columnNumber: 371
+                        columnNumber: 378
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/app/page.tsx",
                 lineNumber: 112,
-                columnNumber: 2
+                columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                 children: [
@@ -743,7 +743,7 @@ function Home() {
                     }, void 0, false, {
                         fileName: "[project]/app/page.tsx",
                         lineNumber: 116,
-                        columnNumber: 34
+                        columnNumber: 41
                     }, this),
                     " and ",
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("b", {
@@ -751,7 +751,7 @@ function Home() {
                     }, void 0, false, {
                         fileName: "[project]/app/page.tsx",
                         lineNumber: 116,
-                        columnNumber: 66
+                        columnNumber: 73
                     }, this),
                     " over my work. I deeply care about my craft and tend to have healthy debates over various programming topics, especially with senior engineers. My engineering philosophy is heavily inspired by ",
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("b", {
@@ -759,14 +759,14 @@ function Home() {
                     }, void 0, false, {
                         fileName: "[project]/app/page.tsx",
                         lineNumber: 116,
-                        columnNumber: 274
+                        columnNumber: 281
                     }, this),
                     " with some elements of Procedural and Functional programming sprinkled in. Here are some of my professional interests in greater detail:"
                 ]
             }, void 0, true, {
                 fileName: "[project]/app/page.tsx",
                 lineNumber: 115,
-                columnNumber: 2
+                columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
                 className: "font-semibold pt-4",
@@ -774,7 +774,7 @@ function Home() {
             }, void 0, false, {
                 fileName: "[project]/app/page.tsx",
                 lineNumber: 118,
-                columnNumber: 9
+                columnNumber: 7
             }, this),
             "One of my primary interests lies in making supercomputers more efficient. I'm pumped to gain hands-on experience in building systems that distribute training across massive GPU clusters. I'm also captivated by the challenges of scaling the training stack and beaking down distributed storage systems such as Weka and Ceph. I'll lbe experimentin more with Consensus algorithms and etcd too.",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
@@ -783,7 +783,7 @@ function Home() {
             }, void 0, false, {
                 fileName: "[project]/app/page.tsx",
                 lineNumber: 121,
-                columnNumber: 2
+                columnNumber: 7
             }, this),
             "I’ve always had a deep fascination with GPUs ever since I played Crysis 3 as a kid. Now, I explore ways of writing my own high-performance GPU/CPU compute kernels out for fun and that led me down a rabbit hole of optimizing CUDA kernels for TPUs, GPUs & AWS Trainium. I'd like to see how far I can push modern day GPUs by studying the performance characteristics of various GPU architectures and optimizing the compiler to leverage their features like tensor cores.",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
@@ -792,7 +792,7 @@ function Home() {
             }, void 0, false, {
                 fileName: "[project]/app/page.tsx",
                 lineNumber: 124,
-                columnNumber: 2
+                columnNumber: 7
             }, this),
             "As an interactive designer and creative front-end engineer, the web is just another canvas for me to create art and express stories. I am particularly fascinated by the challenge of delivering beautifully designed websites like those in Awwwards or Godly that are also fine-tuned for performance. I embace micro-frontends and keeping things simple like how Frontend Masters and Excalidraw does it. I consider them to be a masterclass in front-end engineering after learning more about them.",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
@@ -801,7 +801,7 @@ function Home() {
             }, void 0, false, {
                 fileName: "[project]/app/page.tsx",
                 lineNumber: 128,
-                columnNumber: 2
+                columnNumber: 7
             }, this),
             "I tend to see Backend engineering in terms of data  so it only makes sense I like building and maintaining high-performance, low-latency streaming engines. One of my key interests is pushing the boundaries of what modern cloud computing can achieve with tools like WebAssembly and programming models like Distributed Async Await.",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
@@ -810,7 +810,7 @@ function Home() {
             }, void 0, false, {
                 fileName: "[project]/app/page.tsx",
                 lineNumber: 131,
-                columnNumber: 2
+                columnNumber: 7
             }, this),
             "I'm deeply interested in the intersection of bare-metal infrastructure engineering and machine learning with a particular emphasis on the software side of things. As a proud supporter of self-hosting and managing dedicated servers, I have a bit of experience with private networking and cloud-native observability tools. I have a unhealthy interest with  High Frequency & Compute Trading Platforms and am just fascinated with orchestration engines, block storage systems and schedulers.",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
@@ -819,7 +819,7 @@ function Home() {
             }, void 0, false, {
                 fileName: "[project]/app/page.tsx",
                 lineNumber: 135,
-                columnNumber: 1
+                columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("center", {
                 children: [
@@ -829,12 +829,12 @@ function Home() {
                         }, void 0, false, {
                             fileName: "[project]/app/page.tsx",
                             lineNumber: 138,
-                            columnNumber: 9
+                            columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/app/page.tsx",
                         lineNumber: 137,
-                        columnNumber: 5
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
                         children: "  - African Proverb"
@@ -847,249 +847,24 @@ function Home() {
             }, void 0, true, {
                 fileName: "[project]/app/page.tsx",
                 lineNumber: 136,
-                columnNumber: 1
+                columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                 children: [
-                    "I wouldn't be here if not for the people I've met directly and indirectly in my life. Giving back to the community and ",
+                    "Giving back to the community and ",
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
                         children: "paying kindness forward "
                     }, void 0, false, {
                         fileName: "[project]/app/page.tsx",
                         lineNumber: 143,
-                        columnNumber: 120
+                        columnNumber: 42
                     }, this),
-                    " are extremely important virtues I try to prioritize. I'm always open to discussing any project or idea you'd want to talk about. You can also find me at these socials:"
+                    " are extremely important virtues I try to prioritize. I'm always open to discussing any project or idea you'd want to talk about. Please feel free to contact me in one of the socials below and I'd be more than happy to chat ^-^"
                 ]
             }, void 0, true, {
                 fileName: "[project]/app/page.tsx",
                 lineNumber: 142,
-                columnNumber: 1
-            }, this),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                children: [
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
-                        children: "Cal:"
-                    }, void 0, false, {
-                        fileName: "[project]/app/page.tsx",
-                        lineNumber: 148,
-                        columnNumber: 5
-                    }, this),
-                    " ",
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                        href: "https://cal.com/nanodijkstra",
-                        children: "cal.com/nanodijkstra"
-                    }, void 0, false, {
-                        fileName: "[project]/app/page.tsx",
-                        lineNumber: 148,
-                        columnNumber: 27
-                    }, this),
-                    "                                                              "
-                ]
-            }, void 0, true, {
-                fileName: "[project]/app/page.tsx",
-                lineNumber: 146,
-                columnNumber: 1
-            }, this),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                children: [
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
-                        children: "Substack:"
-                    }, void 0, false, {
-                        fileName: "[project]/app/page.tsx",
-                        lineNumber: 152,
-                        columnNumber: 5
-                    }, this),
-                    " ",
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                        href: "https://nanodijkstra.substack.com/",
-                        children: "nanodijkstra.substack.com"
-                    }, void 0, false, {
-                        fileName: "[project]/app/page.tsx",
-                        lineNumber: 152,
-                        columnNumber: 32
-                    }, this),
-                    "                                                              "
-                ]
-            }, void 0, true, {
-                fileName: "[project]/app/page.tsx",
-                lineNumber: 150,
-                columnNumber: 1
-            }, this),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                children: [
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
-                        children: "Codeforces:"
-                    }, void 0, false, {
-                        fileName: "[project]/app/page.tsx",
-                        lineNumber: 156,
-                        columnNumber: 5
-                    }, this),
-                    " ",
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                        href: "https://codeforces.com/profile/vxsha-256",
-                        children: "codeforces.com/profile/vxsha-256"
-                    }, void 0, false, {
-                        fileName: "[project]/app/page.tsx",
-                        lineNumber: 156,
-                        columnNumber: 34
-                    }, this),
-                    "                                                              "
-                ]
-            }, void 0, true, {
-                fileName: "[project]/app/page.tsx",
-                lineNumber: 154,
-                columnNumber: 1
-            }, this),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                children: [
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
-                        children: "Atcoder:"
-                    }, void 0, false, {
-                        fileName: "[project]/app/page.tsx",
-                        lineNumber: 160,
-                        columnNumber: 5
-                    }, this),
-                    " ",
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                        href: "https://atcoder.jp/users/vxsha256",
-                        children: "atcoder.jp/users/vxsha256"
-                    }, void 0, false, {
-                        fileName: "[project]/app/page.tsx",
-                        lineNumber: 160,
-                        columnNumber: 31
-                    }, this),
-                    "                                                              "
-                ]
-            }, void 0, true, {
-                fileName: "[project]/app/page.tsx",
-                lineNumber: 158,
-                columnNumber: 1
-            }, this),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                children: [
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
-                        children: "Spoj:"
-                    }, void 0, false, {
-                        fileName: "[project]/app/page.tsx",
-                        lineNumber: 164,
-                        columnNumber: 5
-                    }, this),
-                    " ",
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                        href: "https://www.spoj.com/users/vxsha256/",
-                        children: "spoj.com/users/vxsha256"
-                    }, void 0, false, {
-                        fileName: "[project]/app/page.tsx",
-                        lineNumber: 164,
-                        columnNumber: 28
-                    }, this),
-                    "                                                              "
-                ]
-            }, void 0, true, {
-                fileName: "[project]/app/page.tsx",
-                lineNumber: 162,
-                columnNumber: 1
-            }, this),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                children: [
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
-                        children: "LeetCode:"
-                    }, void 0, false, {
-                        fileName: "[project]/app/page.tsx",
-                        lineNumber: 168,
-                        columnNumber: 5
-                    }, this),
-                    " ",
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                        href: "https://leetcode.com/u/vxsha-256/",
-                        children: "leetcode.com/u/vxsha-256"
-                    }, void 0, false, {
-                        fileName: "[project]/app/page.tsx",
-                        lineNumber: 168,
-                        columnNumber: 32
-                    }, this),
-                    "                                                              "
-                ]
-            }, void 0, true, {
-                fileName: "[project]/app/page.tsx",
-                lineNumber: 166,
-                columnNumber: 1
-            }, this),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                children: [
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
-                        children: "Twitch:"
-                    }, void 0, false, {
-                        fileName: "[project]/app/page.tsx",
-                        lineNumber: 172,
-                        columnNumber: 5
-                    }, this),
-                    " ",
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                        href: "https://www.twitch.tv/nanod1jkstra",
-                        children: "twitch.tv/nanod1jkstra"
-                    }, void 0, false, {
-                        fileName: "[project]/app/page.tsx",
-                        lineNumber: 172,
-                        columnNumber: 30
-                    }, this),
-                    "                                                              "
-                ]
-            }, void 0, true, {
-                fileName: "[project]/app/page.tsx",
-                lineNumber: 170,
-                columnNumber: 1
-            }, this),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                children: [
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
-                        children: "YouTube:"
-                    }, void 0, false, {
-                        fileName: "[project]/app/page.tsx",
-                        lineNumber: 176,
-                        columnNumber: 5
-                    }, this),
-                    " ",
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                        href: "https://www.youtube.com/@SystemsReadingGroup",
-                        children: "youtube.com/@SystemsReadingGroup"
-                    }, void 0, false, {
-                        fileName: "[project]/app/page.tsx",
-                        lineNumber: 176,
-                        columnNumber: 31
-                    }, this),
-                    "                                                              "
-                ]
-            }, void 0, true, {
-                fileName: "[project]/app/page.tsx",
-                lineNumber: 174,
-                columnNumber: 1
-            }, this),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                children: [
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
-                        children: "Are.na:"
-                    }, void 0, false, {
-                        fileName: "[project]/app/page.tsx",
-                        lineNumber: 180,
-                        columnNumber: 5
-                    }, this),
-                    " ",
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                        href: "https://www.are.na/hari-varsha/all",
-                        children: "are.na/hari-varsha/all"
-                    }, void 0, false, {
-                        fileName: "[project]/app/page.tsx",
-                        lineNumber: 180,
-                        columnNumber: 30
-                    }, this),
-                    "                                                              "
-                ]
-            }, void 0, true, {
-                fileName: "[project]/app/page.tsx",
-                lineNumber: 178,
-                columnNumber: 1
+                columnNumber: 7
             }, this)
         ]
     }, void 0, true);
