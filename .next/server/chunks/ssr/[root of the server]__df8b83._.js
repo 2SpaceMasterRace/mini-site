@@ -262,7 +262,7 @@ function Home() {
                                 lineNumber: 42,
                                 columnNumber: 19
                             }, this),
-                            ", better known as vxsha-256 or nanodijkstra around the internet. From an early age, I’ve been captivated by computers, spending almost all my free time playing Pokemon MMOs, cracking old-school video games, and doomscrolling through internet forums learning random trivia in the process."
+                            ", better known as vxsha-256 or nanodijkstra around the internet. From an early age, I’ve been captivated by computers, spending almost all my free time playing Pokémon MMOs, cracking old-school video games, and doomscrolling through internet forums learning random trivia in the process."
                         ]
                     }, void 0, true, {
                         fileName: "[project]/app/page.tsx",
@@ -295,7 +295,7 @@ function Home() {
                                 lineNumber: 45,
                                 columnNumber: 210
                             }, this),
-                            " and as a lab member for over a year. I plan to move to the magical city of San Francisco, California, or New York City, New York to kickstart my career."
+                            " and as a lab member for over a year. Major objective is to move to the magical city of San Francisco, California, or even New York City, New York to kickstart my career."
                         ]
                     }, void 0, true, {
                         fileName: "[project]/app/page.tsx",
@@ -329,7 +329,7 @@ function Home() {
                                 lineNumber: 51,
                                 columnNumber: 21
                             }, this),
-                            ", a collective of systems nerds who explore niche topics like compilers, operating-systems, distributed systems, low-latency systems, and performance engineering. My career goals can essentially be boiled down to producing the same influence as YEAT, DVRST, Playboi Carti, and ",
+                            ", a collective of systems nerds who explore niche topics like compilers, operating systems, distributed systems, low-latency systems, and performance engineering. My career goals can essentially be boiled down to producing the same influence as YEAT, DVRST, Playboi Carti, and ",
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
                                 children: "Kendrick Lamar but for computer science"
                             }, void 0, false, {
@@ -364,7 +364,7 @@ function Home() {
                                     lineNumber: 57,
                                     columnNumber: 105
                                 }, this),
-                                ". If you'd like a hardworking & passionate student on your team, please reach out to any of my contacts found in the bottom of this website. Thank you so much for your consideration!   🚨"
+                                ". If you'd like a hardworking & passionate student on your team, please reach out to any of my contacts found in the bottom of this website. Thank you so much for your consideration !   🚨"
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/page.tsx",
@@ -493,7 +493,7 @@ function Home() {
                                         lineNumber: 72,
                                         columnNumber: 13
                                     }, this),
-                                    " [C, Rust, LLVM]: A cool static analysis framework for real-world C codebases. Focuses on fast and accurate memory debugging. Gained deep compiler internals knowledge as part of the process. Started off as a final-year project and was presented at two separate conferences."
+                                    " [C, Rust, LLVM]: A cool static analysis framework for real-world C codebases. Focuses on fast and accurate memory debugging. Gained deep compiler internals knowledge as part of the process. Started off as a final-year project and was presented at two seperate conferences."
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/app/page.tsx",
@@ -509,7 +509,7 @@ function Home() {
                                         lineNumber: 75,
                                         columnNumber: 13
                                     }, this),
-                                    " [Typescript, Go]: I’ve always loved films, so it only makes sense I build a streaming platform for indie movies. Inspired by Mubi and Twitch, this is my full-stack project where I allow creators to showcase their arthouse and foreign language films while enabling me to build a real-world product."
+                                    " [Typescript, Go]: I’ve always loved films, so it only makes sense I build a streaming platform for indie movies. Inspired by Mubi and Twitch, this is my full-stack project where I allow creators to showcase their arthouse and foreign language films while giving me the opportunity to build a real-world product."
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/app/page.tsx",
@@ -611,7 +611,7 @@ function Home() {
                                 lineNumber: 94,
                                 columnNumber: 11
                             }, this),
-                            " include an optimized container runtime, experimental file-system to compete with ZFS & BTRFS, a GPU-aware scheduler for serverless platforms, MapReduce from scratch, tiny open-source machine learning compiler, petabyte-scale geo-distributed storage system, search engine for metadata & logs, distributed computing framework for fun and profit, inference engine from scratch, library containing state-of-the-art algorithms for distributed deep learning and building my own network stack for p2p file sharing and custom GPU orchestrator."
+                            " include an optimized container runtime, experimental file-system to compete with ZFS & BTRFS, a GPU-aware scheduler for serverless platforms, MapReduce from scratch, tiny open-source machine learning compiler, petabyte-scale geo-distributed storage system, search engine for metadata & logs, distributed computing framework for fun and profit, inference engine from scratch, library containing state-of-the-art algorithms for distributed deep learning, building my own network stack for p2p file sharing and custom GPU orchestrator."
                         ]
                     }, void 0, true, {
                         fileName: "[project]/app/page.tsx",
@@ -730,7 +730,7 @@ function Home() {
                 lineNumber: 107,
                 columnNumber: 7
             }, this),
-            "I’ve always had a deep fascination with GPUs ever since I played Crysis 3 as a kid. Now, I explore ways of writing my own high-performance GPU/CPU compute kernels out for fun and that led me down a rabbit hole of optimizing CUDA kernels for TPUs, GPUs & AWS Trainium. I'd like to see how far I can push modern-day GPUs by studying the performance characteristics of various GPU architectures and optimizing the compiler to leverage their hardware features like tensor cores.",
+            "I’ve always had a deep fascination with GPUs ever since I played Crysis 3 as a kid. Now, I explore ways of writing my own high-performance GPU/CPU compute kernels for fun and that led me down a rabbit hole of optimizing CUDA kernels for TPUs, GPUs & AWS Trainium. I'd like to see how far I can push modern-day GPUs by studying the performance characteristics of various GPU architectures and optimizing the compiler to leverage their hardware features like tensor cores.",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
                 className: "font-semibold pt-4",
                 children: "✦ Creative Frontend Engineering & Interaction Design "
@@ -739,7 +739,7 @@ function Home() {
                 lineNumber: 110,
                 columnNumber: 7
             }, this),
-            "As an interactive designer and creative front-end engineer, the web is just another canvas for me to create art and express stories. I am particularly fascinated by the challenge of delivering beautifully designed websites like those in Awwwards or Godly that are also fine-tuned for performance. I embrace keeping things simple like how Frontend Masters and Excalidraw do it. I consider them to be a masterclass in front-end engineering after learning their design choices and just the overall experience.",
+            "As an interactive designer and creative front-end engineer, the web is just another canvas for me to create art and express stories. I am particularly fascinated by the challenge of delivering beautifully designed websites like those in Awwwards or Godly that are also fine-tuned for performance. I embrace keeping things simple like how Frontend Masters and Excalidraw do it. I consider them to be a masterclass in front-end engineering after learning their design choices and philosophy.",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
                 className: "font-semibold pt-4",
                 children: "✦ Large-scale Backend Engineering & Low-latency Applications "
@@ -748,7 +748,7 @@ function Home() {
                 lineNumber: 114,
                 columnNumber: 7
             }, this),
-            "I tend to see Backend engineering in terms of moving data seamlessly so it only makes sense I like building and maintaining high-performance, low-latency streaming engines. One of my key interests is pushing the boundaries of what modern cloud computing can achieve with tools like WebAssembly and programming models like Distributed Async Await and reading technical blogs from big-tech companies.",
+            "I tend to see Backend engineering in terms of moving data seamlessly and have been building low-latency applications focused around performance, availability and consistency. One of my key interests is pushing the boundaries of what modern cloud computing can achieve with tools like WebAssembly and programming models like Distributed Async Await and reading niche technical blogs.",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
                 className: "font-semibold pt-4",
                 children: "✦ High-Performance Serverless Platforms & ML Infrastructure "
@@ -757,7 +757,7 @@ function Home() {
                 lineNumber: 117,
                 columnNumber: 7
             }, this),
-            "I'm deeply interested in the intersection of deploying in bare-metal and machine learning systems with a particular emphasis on the software side of things. As a proud supporter of self-host movement and managing dedicated servers, I have experience with private networking and cloud-native observability tools and an unhealthy interest with  High Frequency Trading & Compute Trading Platforms. I'm fascinated with orchestration engines, block storage systems and schedulers.",
+            "I'm deeply interested in the intersection of deploying on bare-metal machines and machine learning systems with a particular emphasis on the software side of things. As a proud supporter of self-host movement and managing dedicated servers, I have experience with private networking and cloud-native observability tools and an unhealthy interest with  High Frequency Trading & Compute Trading Platforms. I'm fascinated with orchestration engines, block storage systems and schedulers.",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                 className: "font-semibold pt-8",
                 children: "Connect"
@@ -770,7 +770,7 @@ function Home() {
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("blockquote", {
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
-                            children: '" It takes a village to raise a child "'
+                            children: "“ It takes a village to raise a child ”"
                         }, void 0, false, {
                             fileName: "[project]/app/page.tsx",
                             lineNumber: 124,
