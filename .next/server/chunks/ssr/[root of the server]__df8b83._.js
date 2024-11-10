@@ -253,8 +253,18 @@ function Home() {
                 className: "text-gray-800 space-y-4 leading-snug",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                        children: "Hi! I'm Hari Varsha, better known as vxsha-256 or nanodijkstra around the internet. From an early age, I’ve been captivated by computers, spending almost all my free time playing Pokemon MMOs, cracking old-school video games, and perusing through internet forums learning random trivia in the process."
-                    }, void 0, false, {
+                        children: [
+                            "Hi! I'm ",
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("b", {
+                                children: "Hari Varsha"
+                            }, void 0, false, {
+                                fileName: "[project]/app/page.tsx",
+                                lineNumber: 42,
+                                columnNumber: 19
+                            }, this),
+                            ", better known as vxsha-256 or nanodijkstra around the internet. From an early age, I’ve been captivated by computers, spending almost all my free time playing Pokemon MMOs, cracking old-school video games, and doomscrolling through internet forums learning random trivia in the process."
+                        ]
+                    }, void 0, true, {
                         fileName: "[project]/app/page.tsx",
                         lineNumber: 41,
                         columnNumber: 9
@@ -285,7 +295,7 @@ function Home() {
                                 lineNumber: 45,
                                 columnNumber: 210
                             }, this),
-                            " and as a lab member for over a year. My dream for now is to move to the magical city of San Francisco, California or New York City, New York to kickstart my career."
+                            " and as a lab member for over a year. I plan to move to the magical city of San Francisco, California, or New York City, New York to kickstart my career."
                         ]
                     }, void 0, true, {
                         fileName: "[project]/app/page.tsx",
@@ -319,13 +329,13 @@ function Home() {
                                 lineNumber: 51,
                                 columnNumber: 21
                             }, this),
-                            ", a collective of systems nerds who explore niche topics like compiler internals, distributed systems, low-latency systems, and performance engineering. My career goals can essentially be boiled down to producing the same influence as YEAT, Playboi Carti, and ",
+                            ", a collective of systems nerds who explore niche topics like compilers, operating-systems, distributed systems, low-latency systems, and performance engineering. My career goals can essentially be boiled down to producing the same influence as YEAT, DVRST, Playboi Carti, and ",
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
                                 children: "Kendrick Lamar but for computer science"
                             }, void 0, false, {
                                 fileName: "[project]/app/page.tsx",
                                 lineNumber: 51,
-                                columnNumber: 316
+                                columnNumber: 333
                             }, this),
                             " as a whole."
                         ]
@@ -346,15 +356,15 @@ function Home() {
                         className: "bg-gray-100 border-l-4 border-blue-500 text-gray-700 p-4 my-4",
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                             children: [
-                                "🚨 I am currently applying to graduate programs for Fall 2025, and I'm ",
+                                "🚨 I am currently applying to graduate programs for computer science for Fall 2025, and I'm ",
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("b", {
                                     children: "open to MS/PhD programs"
                                 }, void 0, false, {
                                     fileName: "[project]/app/page.tsx",
                                     lineNumber: 57,
-                                    columnNumber: 84
+                                    columnNumber: 105
                                 }, this),
-                                ". If you'd like a hardworking & passionate student on your team, please reach out to any of my contacts found in the bottom of this website! 🚨"
+                                ". If you'd like a hardworking & passionate student on your team, please reach out to any of my contacts found in the bottom of this website. Thank you so much for your consideration!   🚨"
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/page.tsx",
@@ -400,7 +410,7 @@ function Home() {
                                 lineNumber: 61,
                                 columnNumber: 210
                             }, this),
-                            ". Hobbies currently include amateur game development, reading RFC's and learning Japanese. I'll be setting up substack and start streaming development on Twitch soon in the future."
+                            ". Hobbies currently include amateur game development, reading RFCs and learning Japanese. I'll be setting up substack and start streaming development on Twitch soon in the future."
                         ]
                     }, void 0, true, {
                         fileName: "[project]/app/page.tsx",
@@ -417,13 +427,13 @@ function Home() {
                                 lineNumber: 64,
                                 columnNumber: 43
                             }, this),
-                            ", writing and reverse engineering a ",
+                            ", writing my own ",
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("b", {
-                                children: "linux kernel module"
+                                children: "Linux Kernel Module"
                             }, void 0, false, {
                                 fileName: "[project]/app/page.tsx",
                                 lineNumber: 64,
-                                columnNumber: 123
+                                columnNumber: 104
                             }, this),
                             " in C and Zig, and experimenting on ",
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("b", {
@@ -431,7 +441,7 @@ function Home() {
                             }, void 0, false, {
                                 fileName: "[project]/app/page.tsx",
                                 lineNumber: 64,
-                                columnNumber: 185
+                                columnNumber: 166
                             }, this),
                             " to learn them on a deeper level. I'm trying to build a habit of reading technical books and I've been enjoying ",
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("b", {
@@ -439,7 +449,7 @@ function Home() {
                             }, void 0, false, {
                                 fileName: "[project]/app/page.tsx",
                                 lineNumber: 64,
-                                columnNumber: 315
+                                columnNumber: 296
                             }, this),
                             " by Martin Kleppmann & ",
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("b", {
@@ -447,7 +457,7 @@ function Home() {
                             }, void 0, false, {
                                 fileName: "[project]/app/page.tsx",
                                 lineNumber: 64,
-                                columnNumber: 382
+                                columnNumber: 363
                             }, this),
                             " by Éva Tardos. "
                         ]
@@ -483,7 +493,7 @@ function Home() {
                                         lineNumber: 72,
                                         columnNumber: 13
                                     }, this),
-                                    " [C, Rust, LLVM]: A cool static analysis framework for real-world C codebases. Focuses on fast and accurate memory debugging. Gained compiler internals knowledge. Started off as a final-year project and was presented at two seperate conferences."
+                                    " [C, Rust, LLVM]: A cool static analysis framework for real-world C codebases. Focuses on fast and accurate memory debugging. Gained deep compiler internals knowledge as part of the process. Started off as a final-year project and was presented at two separate conferences."
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/app/page.tsx",
@@ -515,7 +525,7 @@ function Home() {
                                         lineNumber: 78,
                                         columnNumber: 13
                                     }, this),
-                                    " [Rust, Go]: After participating in Andreas Kling’s Browser Jam, I decided to build a minimal, full-fledged Vim-Based web bowser. More of a toy project to understand boswer engineering, that's  pretty much it for this one."
+                                    " [Rust, Go]: After participating in Andreas Kling’s Browser Jam, I decided to build a minimal, full-fledged Vim-Based web browser. This is more of a toy project to understand browser engineering."
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/app/page.tsx",
@@ -563,7 +573,7 @@ function Home() {
                                         lineNumber: 87,
                                         columnNumber: 13
                                     }, this),
-                                    " [Typescript, C, Go]: Working on my own MMORPG in C and Go as part of the Ooga Booga Game Devs community, where a group of game devs come together to ship great games from scratch in C, while mastering the ancient art of Caveman Programming."
+                                    " [Typescript, C, Go]: Working on my own MMORPG as part of the Ooga Booga Game Devs community, where a group of game devs come together to ship great games from scratch, while mastering the ancient art of Caveman Programming."
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/app/page.tsx",
@@ -601,7 +611,7 @@ function Home() {
                                 lineNumber: 94,
                                 columnNumber: 11
                             }, this),
-                            " include an optimized container runtime, experimental file-system to compete with ZFS & BTRFS, a GPU-aware scheduler for serverless platforms, MapReduce from scratch, tiny open-source machine learning compiler, petabyte-scale geo-distributed storage system, search engine for metadata & logs, distributed computing framework for fun and profit, inference engine from scratch, libary containing state-of-the-art algorithms for distributed deep learning and building my own network stack and such for p2p file sharing with minimal latency."
+                            " include an optimized container runtime, experimental file-system to compete with ZFS & BTRFS, a GPU-aware scheduler for serverless platforms, MapReduce from scratch, tiny open-source machine learning compiler, petabyte-scale geo-distributed storage system, search engine for metadata & logs, distributed computing framework for fun and profit, inference engine from scratch, library containing state-of-the-art algorithms for distributed deep learning and building my own network stack for p2p file sharing and custom GPU orchestrator."
                         ]
                     }, void 0, true, {
                         fileName: "[project]/app/page.tsx",
@@ -640,21 +650,21 @@ function Home() {
                         lineNumber: 99,
                         columnNumber: 66
                     }, this),
-                    " that just works and stands the test of time. This was inspired by using actually good software that never lets me down and covers all of my uses such as ",
+                    " that just work and stands the test of time. This was inspired by using actually good software that never lets me down and covers all of my uses such as ",
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("b", {
                         children: "7zip, Vim, Curl, i3"
                     }, void 0, false, {
                         fileName: "[project]/app/page.tsx",
                         lineNumber: 99,
-                        columnNumber: 250
+                        columnNumber: 249
                     }, this),
                     ", etc. I also appreciate and value good documentation, especially ones from ",
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("b", {
-                        children: "Spacy, Emacs, "
+                        children: "SpaCy, Emacs, "
                     }, void 0, false, {
                         fileName: "[project]/app/page.tsx",
                         lineNumber: 99,
-                        columnNumber: 352
+                        columnNumber: 351
                     }, this),
                     " and ",
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("b", {
@@ -662,7 +672,7 @@ function Home() {
                     }, void 0, false, {
                         fileName: "[project]/app/page.tsx",
                         lineNumber: 99,
-                        columnNumber: 378
+                        columnNumber: 377
                     }, this)
                 ]
             }, void 0, true, {
@@ -705,51 +715,51 @@ function Home() {
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
                 className: "font-semibold pt-4",
-                children: "Anything with Supercomputers & Distributed Systems "
+                children: "✦ Anything with Supercomputers & Distributed Systems "
             }, void 0, false, {
                 fileName: "[project]/app/page.tsx",
                 lineNumber: 104,
                 columnNumber: 7
             }, this),
-            "One of my primary interests lies in making supercomputers more efficient. I'm pumped to gain hands-on experience in building systems that distribute training across massive GPU clusters. I'm also captivated by the challenges of scaling the training stack and beaking down distributed storage systems such as Weka and Ceph. I'll lbe experimenting moreon consensus algorithms and etcd.",
+            "One of my primary interests lies in making supercomputers more efficient. I'm pumped to gain hands-on experience in building systems that distribute training across massive GPU clusters. I'm also captivated by the challenges of scaling the training stack and breaking down distributed storage systems such as Weka and Ceph. I'll be experimenting more with consensus algorithms and etcd.",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
                 className: "font-semibold pt-4",
-                children: "Custom GPU Kernels for Machine Learning "
+                children: "✦ Custom GPU Kernels for Machine Learning "
             }, void 0, false, {
                 fileName: "[project]/app/page.tsx",
                 lineNumber: 107,
                 columnNumber: 7
             }, this),
-            "I’ve always had a deep fascination with GPUs ever since I played Crysis 3 as a kid. Now, I explore ways of writing my own high-performance GPU/CPU compute kernels out for fun and that led me down a rabbit hole of optimizing CUDA kernels for TPUs, GPUs & AWS Trainium. I'd like to see how far I can push modern day GPUs by studying the performance characteristics of various GPU architectures and optimizing the compiler to leverage their features like tensor cores.",
+            "I’ve always had a deep fascination with GPUs ever since I played Crysis 3 as a kid. Now, I explore ways of writing my own high-performance GPU/CPU compute kernels out for fun and that led me down a rabbit hole of optimizing CUDA kernels for TPUs, GPUs & AWS Trainium. I'd like to see how far I can push modern-day GPUs by studying the performance characteristics of various GPU architectures and optimizing the compiler to leverage their hardware features like tensor cores.",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
                 className: "font-semibold pt-4",
-                children: "Creative Frontend Engineering & Interaction Design "
+                children: "✦ Creative Frontend Engineering & Interaction Design "
             }, void 0, false, {
                 fileName: "[project]/app/page.tsx",
                 lineNumber: 110,
                 columnNumber: 7
             }, this),
-            "As an interactive designer and creative front-end engineer, the web is just another canvas for me to create art and express stories. I am particularly fascinated by the challenge of delivering beautifully designed websites like those in Awwwards or Godly that are also fine-tuned for performance. I embace keeping things simple like how Frontend Masters and Excalidraw does it. I consider them to be a masterclass in front-end engineering after learning their design choices.",
+            "As an interactive designer and creative front-end engineer, the web is just another canvas for me to create art and express stories. I am particularly fascinated by the challenge of delivering beautifully designed websites like those in Awwwards or Godly that are also fine-tuned for performance. I embrace keeping things simple like how Frontend Masters and Excalidraw do it. I consider them to be a masterclass in front-end engineering after learning their design choices and just the overall experience.",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
                 className: "font-semibold pt-4",
-                children: "Large-scale Backend Engineering & Low-latency Applications "
+                children: "✦ Large-scale Backend Engineering & Low-latency Applications "
             }, void 0, false, {
                 fileName: "[project]/app/page.tsx",
                 lineNumber: 114,
                 columnNumber: 7
             }, this),
-            "I tend to see Backend engineering in terms of moving data seamlessly so it only makes sense I like building and maintaining high-performance, low-latency streaming engines. One of my key interests is pushing the boundaries of what modern cloud computing can achieve with tools like WebAssembly and programming models like Distributed Async Await.",
+            "I tend to see Backend engineering in terms of moving data seamlessly so it only makes sense I like building and maintaining high-performance, low-latency streaming engines. One of my key interests is pushing the boundaries of what modern cloud computing can achieve with tools like WebAssembly and programming models like Distributed Async Await and reading technical blogs from big-tech companies.",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
                 className: "font-semibold pt-4",
-                children: "High-Performance Serverless Platforms & ML Infrastructure "
+                children: "✦ High-Performance Serverless Platforms & ML Infrastructure "
             }, void 0, false, {
                 fileName: "[project]/app/page.tsx",
                 lineNumber: 117,
                 columnNumber: 7
             }, this),
-            "I'm deeply interested in the intersection of bare-metal infrastructure engineering and machine learning with a particular emphasis on the software side of things. As a proud supporter of self-hosting and managing dedicated servers, I have a bit of experience with private networking and cloud-native observability tools. I have a unhealthy interest with  High Frequency & Compute Trading Platforms and am just fascinated with orchestration engines, block storage systems and schedulers.",
+            "I'm deeply interested in the intersection of deploying in bare-metal and machine learning systems with a particular emphasis on the software side of things. As a proud supporter of self-host movement and managing dedicated servers, I have experience with private networking and cloud-native observability tools and an unhealthy interest with  High Frequency Trading & Compute Trading Platforms. I'm fascinated with orchestration engines, block storage systems and schedulers.",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                className: "font-semibold pt-4",
+                className: "font-semibold pt-8",
                 children: "Connect"
             }, void 0, false, {
                 fileName: "[project]/app/page.tsx",
@@ -794,7 +804,7 @@ function Home() {
                         lineNumber: 129,
                         columnNumber: 42
                     }, this),
-                    " are extremely important virtues I try to prioritize. I'm always open to discussing any project or idea you'd want to talk about. Please feel free to contact me in one of the socials below and I'd be more than happy to chat ^-^"
+                    " are important virtues I try to prioritize and practice. I'm always open to discussing any project or startup idea you'd want to talk about. Please feel free to contact me in one of the socials below and I'd be more than happy to chat ^-^"
                 ]
             }, void 0, true, {
                 fileName: "[project]/app/page.tsx",
