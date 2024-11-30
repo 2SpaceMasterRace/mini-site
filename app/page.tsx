@@ -81,13 +81,13 @@ export default function Home() {
             <b>Loveless</b> [Go, Zig]: A cool edge database that focuses on auto-scaling and  performance to handle massive multiplayer environments. Started building it as part of Summer of Shipping 2024 after being inspired by Tiger Beetle and Turso.
           </li>
           <li>
-            <b>Kaze Switch</b> [Rust, Zig]: Emulators have always been a fascination for me and since most switch emulators struggle to run on low-end PCs, I’ve decided to build my own lightning fast nintendo switch emulator with portability and networked multiplayer in mind.
+            <b>Kaze Switch</b> [Rust, OCaml]: Emulators have always been a fascination for me and since most switch emulators struggle to run on low-end PCs, I’ve decided to build my own lightning fast nintendo switch emulator with portability and networked multiplayer in mind.
           </li>
           <li>
-            <b>Amaterasu</b> [Typescript, C, Go]: Working on my own MMORPG as part of the Ooga Booga Game Devs community, where a group of game devs come together to ship great games from scratch, while mastering the ancient art of Caveman Programming.
+            <b>Terra</b> [C, Typescript]: Working on my own MMORPG as part of the Ooga Booga Game Devs community, where a group of game devs come together to ship great games from scratch, while mastering the ancient art of Caveman Programming.
           </li>
           <li>
-            <b>Axogig</b> [Rust, C, C++]: Building a high-performance deep learning accelerator for hackers to train their own neural nets at home without needing to rely on large-scale vendors. Started off as part of Buildspace’s Nights & Weekends Season 5 and just kept continuing to work on it.
+            <b>Axogig</b> [Python, C++, CUDA]: Building a high-performance distributed training framework to train neural nets across GPU clusters seamlessly. Started off as project for Buildspace’s Nights & Weekends Season 5 and just kept continuing to work on it.
           </li>
         </ul>
         <p>
@@ -101,21 +101,31 @@ export default function Home() {
       <p>
         My experience has allowed me to <b>prioritize ownership</b> and <b>autonomy</b> over my work. I deeply care about my craft and tend to have healthy debates over various programming topics, especially with senior engineers. My engineering philosophy is heavily inspired by <b>Andrew Kelley's Practical Data Oriented Design</b> with some elements of Procedural and Functional programming sprinkled in. Here are some of my professional interests in greater detail:
       </p>
-      <h4 className="font-semibold pt-4">✦ Anything with Supercomputers & Distributed Systems </h4>
-      One of my primary interests lies in making supercomputers more efficient. I'm pumped to gain hands-on experience in building systems that distribute training across massive GPU clusters. I'm also captivated by the challenges of scaling the training stack and breaking down distributed storage systems such as Weka and Ceph. I'll be experimenting more with consensus algorithms and etcd.
+	
 
-      <h4 className="font-semibold pt-4">✦ Custom GPU Kernels for Machine Learning </h4>
+      <h4 className="font-semibold pt-4">✦ Writing Custom GPU Kernels for Machine Learning Systems </h4>
       I’ve always had a deep fascination with GPUs ever since I played Crysis 3 as a kid. Now, I explore ways of writing my own high-performance GPU/CPU compute kernels for fun and that led me down a rabbit hole of optimizing CUDA kernels for TPUs, GPUs & AWS Trainium. I'd like to see how far I can push modern-day GPUs by studying the performance characteristics of various GPU architectures and optimizing the compiler to leverage their hardware features like tensor cores.
 
-      <h4 className="font-semibold pt-4">✦ Creative Frontend Engineering & Interaction Design </h4>
-      As an interactive designer and creative front-end engineer, the web is just another canvas for me to create art and express stories. I am particularly fascinated by the challenge of delivering beautifully designed websites like those in Awwwards or Godly that are also fine-tuned for performance. I embrace keeping things simple like how Frontend Masters and Excalidraw do it. I consider them to be a masterclass in front-end engineering after learning their design choices and philosophy.
 
 
-      <h4 className="font-semibold pt-4">✦ Large-scale Backend Engineering & Low-latency Applications </h4>
-      I build low-latency applications focused around performance, availability and consistency and tend to see Backend engineering in terms of moving data seamlessly. One of my key interests is pushing the boundaries of what modern cloud computing can achieve with tools like WebAssembly and programming models like Distributed Async Await and reading niche technical blogs.
 
-      <h4 className="font-semibold pt-4">✦ High-Performance Serverless Platforms & ML Infrastructure </h4>
-      I'm deeply interested in the intersection of deploying on bare-metal machines and machine learning systems with a particular emphasis on the software side of things. As a proud supporter of self-host movement and managing dedicated servers, I have experience with private networking and cloud-native observability tools and an unhealthy interest with  High Frequency Trading & Compute Trading Platforms. I'm fascinated with orchestration engines, block storage systems and schedulers.
+      <h4 className="font-semibold pt-4">✦ Supercomputers, Distributed Computing & Systems for Fun and Profit </h4>
+      One of my primary interests lies in designing and building novel, high-performance systems for machine learning, particularly at supercomputing scale.  As a systems engineer, I like optimizing container orchestrators, implementing my own distributed file system, building large-scale data processing applications like Apache Hadoop. I enjoy working on distributed storage systems such as Weka and Ceph,   designing custom load-balancing algorithm to optimize serving efficiency, breaking the CUDA compiler, exploring operating system design and HPC network architectures. 
+      <h4 className="font-semibold pt-4">✦ Managing Infrastructure and Handling SEV-1 for Breakfast</h4>
+
+
+      I take great pleasure in deploying on bare-metal machines and building tooling for infrastructure engineers. As a proud supporter of self-host movement, I have spent a good amount of time on private networking and cloud-native observability tools. I like being experimental like integrating WebAssembly to avoid long cold starts and over-provisioning.<br />
+
+	I'm not afraid to get delve one level deeper using tools like eBPF to monitor and mitigate excessive CPU usage, instrumenting the Linux scheduler with ftrace and Perfetto, analyzing request latency using sampling profilers like gprof, configuring Kubernetes for optimal workload performance, using pprof to optimize Go code & maintain top-notch performance across services & more tools under my sleeve.
+
+      <h4 className="font-semibold pt-4">✦ Hacking Hardware Architectures & Performance Engineering </h4>
+      Building robust, low-latency hardware & applications to serve billions of users has always been a career goal of mine. I actually would love to put my EE degree in use paticularly on ASIC chip design and developing microprocessor architecture. I'd take any opportunity on tearing down ML accelerators such as Google’s TPU and Groq LPU and consumer hardware like Apple's AirTag. <br />
+
+	      I also have a good amount of battle scars in performance and backend engineering, especially in debugging kernel-level network latency spikes in containers, tuning JVM's Garbage collection & developing GPU-aware schedulers, and implementing low-latency high-throughput sampling for large language models. Unhealthy interests include orchestration engines, block storage systems and job-schedulers. 
+
+      <h4 className="font-semibold pt-4">✦ Creative Frontend Engineering & Crafting Interactions with Love </h4>
+      As an interactive designer and creative front-end engineer, the web is just another canvas for me to create art and express stories. I am particularly fascinated by the challenge of delivering beautifully designed websites like those in Awwwards and Godly, and upskilled myself to work with all levels of design from typographic layout to exploring corners of the web spec to get stuff done.  <br />
+		      I have experience in building front-end infrastructure tooling and thrive in startup-y backgrounds where ambiguity is the norm. I excel in building complex and gorgeous products, and have a high degree of empathy for user-experience, accessibility, and ownership. Taking products from 0 → 1 and designing high-quality, beautiful, joy-inducing interfaces that make a real impact are my strong suits.
 
 
       <h2 className="font-semibold pt-8">Connect</h2>
@@ -126,7 +136,7 @@ export default function Home() {
         <i>  - African Proverb</i>
       </center>
       <p>
-        Giving back to the community and <strong>paying kindness forward </strong> are important virtues I try to prioritize and practice. I'm always open to discussing any project or startup idea you'd want to talk about. Please feel free to contact me in one of the socials below and I'd be more than happy to chat ^-^
+        Giving back to the community and <strong>paying kindness forward </strong> are important virtues I try to prioritize and practice. I'm always open to discussing any project or startup idea you'd want to talk about. Take a look at my socials below and feel free to get in touch for a coffee chat or collab. I'll be happy to chat ^-^
       </p>
     </>
   );
