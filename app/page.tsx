@@ -42,8 +42,16 @@ export default function Home() {
           Hi! I'm <b>Hari Varsha</b>, better known as vxsha-256 or nanodijkstra
           around the internet. From an early age, I’ve been captivated by
           computers, spending almost all my free time playing Pokémon MMOs,
-          cracking old-school video games, and doomscrolling through internet
+          watching old-school noir films, and doomscrolling through internet
           forums learning random trivia in the process.
+        </p>
+        <p>
+          I'm a fresh Electrical and Computer Engineering grad. I've hacked
+          around everything fun from <b>large-language models</b> to{" "}
+          <b>embedded microcontrollers</b> and worked as a Summer Research
+          Intern @ <b>UCSC (Go Slugs!)</b> and as a lab member for over a year.
+          I specialize in building the next-generation serverless platforms and
+          machine learning systems.
         </p>
         <p>
           Over the years, I’ve become deeply entrenched in the world of{" "}
@@ -54,14 +62,6 @@ export default function Home() {
           Apart from intense development, I like consuming comics like XKCD and
           SMBC, reading Hacker News threads, and essays from cool people like
           Paul Graham & Joel Spolsky.
-        </p>
-        <p>
-          I'm a fresh Electrical and Computer Engineering grad. I've hacked
-          around everything fun from <b>large-language models</b> to{" "}
-          <b>embedded microcontrollers</b> and worked as a Summer Research
-          Intern @ <b>UCSC (Go Slugs!)</b> and as a lab member for over a year.
-          My goal is to pursue systems research at the intersection of
-          distributed systems and machine learning systems.
         </p>
         <p>
           I lead the <b>Arcane Systems Reading Group</b>, a collective of
@@ -188,7 +188,7 @@ export default function Home() {
       One of my primary interests lies in designing and building novel,
       high-performance systems for machine learning, particularly at
       supercomputing scale. As a humble systems engineer, I'd kill to work on
-      interesting projects like optimizing container runtime, implementing
+      interesting projects like optimizing container runtimes, implementing
       distributed file systems, and building large-scale data processing
       applications like Apache Hadoop.
       <br />
@@ -196,7 +196,7 @@ export default function Home() {
       network architectures, hacking high performance storage systems such as
       Weka and Ceph, designing custom load-balancing algorithm to optimize
       serving efficiency, breaking the CUDA compiler, and performance enhancing
-      virtual machines (play on PEDs).
+      virtual machines.
       <h4 className="font-semibold pt-4">
         ✦ Writing Custom GPU Kernels for Machine Learning Systems{" "}
       </h4>
@@ -219,9 +219,9 @@ export default function Home() {
       <br />
       I'm not afraid to delve one level deeper using tools like eBPF to monitor
       and mitigate excessive CPU usage, instrumenting the Linux scheduler with
-      ftrace and Perfetto, analyzing request latency using sampling profilers
-      like gprof, try and fail to configure Kubernetes for optimal workload
-      performance, using pprof to optimize Go code & maintain top-notch
+      ftrace and perfetto, analyzing request latency using sampling profilers
+      like gprof, trying and failing to configure Kubernetes for optimal
+      workload performance, using pprof to optimize Go code & maintain top
       performance across services and more spells under my sleeve.
       <h4 className="font-semibold pt-4">
         ✦ Hacking Hardware Architectures & Performance Engineering{" "}
@@ -230,24 +230,24 @@ export default function Home() {
       users has always been a career goal of mine. I would actually love to put
       my EE degree in use particularly on ASIC chip design and developing
       microprocessor architecture. I'd seize any opportunity on tearing down ML
-      accelerators such as Google’s TPU & Groq LPU and consumer hardware like
+      accelerators such as Google’s TPU & Groq's LPU and consumer hardware like
       Apple's AirTag. <br />I also have a good amount of battle scars in
       performance and backend engineering, especially in debugging kernel-level
       network latency spikes in containers, tuning JVM Garbage collection &
       developing GPU Task Schedulers, and implementing low-latency
       high-throughput sampling for large language models. Other strong interests
-      include orchestration engines, block storage systems and search-engines.
+      include orchestration engines, block storage systems and compute services.
       <h4 className="font-semibold pt-4">
-        ✦ Creative Frontend Engineering & Crafting Interactions with Love{" "}
+        ✦ Crafting Interactions with Love & Creative Frontend Engineering
       </h4>
       As an interactive designer and creative front-end engineer, the web is
       just another canvas for me to create art and express stories. I am
       particularly fascinated by the challenge of delivering beautifully
       designed websites like those in Awwwards and Godly. I’m fortunate enough
       to upskill myself in various aspects of design, from typographic layouts
-      to exploring all corners of the web specs to get things done. <br />I have
+      to implementing complex web specs to get things done. <br />I have
       experience in building front-end infrastructure tooling and thrive in
-      startup-y backgrounds where ambiguity is the norm. I excel in building
+      startupy backgrounds where ambiguity is the norm. I excel in building
       complex and gorgeous products, and have a high degree of empathy for
       user-experience, accessibility, and ownership. Taking products from 0 → 1
       and designing high-quality, joy-inducing, beautiful interfaces that make a
