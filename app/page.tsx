@@ -7,7 +7,7 @@ function AnimatedName() {
       <span className="sr-only">Hari Varsha</span>
       <span aria-hidden="true" className="block overflow-hidden group relative">
         <span className="inline-block transition-all duration-300 ease-in-out group-hover:-translate-y-full">
-          {"Hari Varsha".split("").map((letter, index) => (
+          {"Hello, I'm Hari Varsha V".split("").map((letter, index) => (
             <span
               key={index}
               className="inline-block"
@@ -18,13 +18,13 @@ function AnimatedName() {
           ))}
         </span>
         <span className="inline-block absolute left-0 top-0 transition-all duration-300 ease-in-out translate-y-full group-hover:translate-y-0">
-          {"nanodijkstra".split("").map((letter, index) => (
+          {"you can call me nanodijkstra :)".split("").map((letter, index) => (
             <span
               key={index}
               className="inline-block"
               style={{ transitionDelay: `${index * 25}ms` }}
             >
-              {letter}
+            {letter === " " ? "\u00A0" : letter}
             </span>
           ))}
         </span>
@@ -39,8 +39,7 @@ export default function Home() {
       <AnimatedName />
       <div className="text-gray-800 space-y-4 leading-snug">
         <p>
-          Hi! I'm <b>Hari Varsha V</b>, better known as nanodijkstra
-          around the internet. I'm a kernel-grade computer systems engineer and researcher
+          Thanks for visiting my about-me.md ! I'm a kernel-grade computer systems engineer and researcher
           with a strong focus on distributed systems & machine learning systems.
           I'm currently pursuing my masters in computer science at New York University and did my undergrad in electrical
           and computer engineering, mostly hacking around everything fun from <b>large-language models</b> to{" "}
@@ -53,11 +52,6 @@ export default function Home() {
           <b>
             performance engineering, low-level systems programming, AI research, and deep-learning infrastructure.{" "}
           </b>
-          Apart from intense development, I like consuming comics like Null Pointer and
-          SMBC, reading Hacker News threads, and essays from cool people like
-          Paul Graham & Joel Spolsky. Outside of my career you can find me spending all my time with my beautiful wife.
-          I like watching films/tv-shows/anime/random-youtube-essays/podcasts, reading manga and literature, playing video-games, learning new languages and train wrestling / muay-thai.
-          Lately I've been trying to get good at artisinal cooking, finance and math/lingustic/informatics olympiads. 
         </p>
         <p>
           I lead the <b>Arcane Systems Reading Group</b>, a collective of
@@ -66,27 +60,37 @@ export default function Home() {
           etc. My career goals can essentially be boiled down to
           producing the same influence as <strong>Kanye West but for computer science</strong> as a whole.
         </p>
+        <p>
+          Apart from intense development, I like consuming comics like Null Pointer and
+          SMBC, reading Hacker News threads, and essays from cool people like
+          Paul Graham & Joel Spolsky. Outside of my career you can find me spending all my time with my beautiful wife.
+          I like watching films/tv-shows/anime/random-youtube-essays/podcasts, reading manga and literature, playing video-games, learning new languages and train wrestling / muay-thai.
+          Lately I've been trying to get good at artisinal cooking, finance and math/lingustic/informatics olympiads. 
+        </p>
 
         <h2 className="font-semibold pt-4">Current</h2>
         <div className="bg-gray-100 border-l-4 border-blue-500 text-gray-700 p-4 my-4">
           <p>
-            🚨 I am currently looking for <b>summer-2026 internships / software engineering</b> roles. I am open to dropping out of my masters program 
-            if our interests co-incide and your work is super interesting. If you'd like an old-school dedicated, hardworking & passionate hacker on your team, 
-            please reach out to any of my contacts found in the bottom of this website. I'm an international student 
-            on F-1 visa & I will need sponsorship (H1-B), but please still get in touch with me if you think you'd like to add 
+            🚨 I am looking for <b>summer-2026 internships / software engineering</b> roles 🚨 <br />
+            <br />
+            I am open to dropping out of my masters program if our interests co-incide and your work is super interesting.
+            If you'd like an old-school dedicated, hardworking & passionate hacker on your team, 
+            please reach out to any of my contacts found in the bottom of this website. <br />
+            <br /> 
+
+
+            I'm an international student on F-1 visa & I will need sponsorship (H1-B), but please still get in touch with me if you think you'd like to add 
             some personality to your team ( promise to still make huge impacts to your mission :) ). I am not afraid to get my hands dirty and put in the time 
-            to be good at my craft, and I love working with people with more expierince than me (I'm a sucker for engineering war stories and desire to be creative in ways i can nuke prod). 
-            Thank you so much for your consideration ! 🚨
-          </p>
+            to be good at my craft, and I love working with people with more expierince than me (I desire to be creative in ways i can nuke prod). 
+            Thank you so much for your consideration ! 
+            </p>
         </div>
         <p>
           I'm having a great time reading source code of{" "}
           <b>Unix-based Kernels</b> and dissecting{" "}
           <b>Kernel-Level anti-cheats</b>, implementing research papers like the{" "}
           <b>Raft protocol</b> and watching conferences such as{" "}
-          <b>CPPcon and Zig Showtime</b>. I plan to set up substack and start
-          streaming development on Twitch soon in the future. My hobbies include
-          amateur game development, reading RFCs and learning Japanese.
+          <b>CPPcon and Zig Showtime</b>. 
         </p>
         <p>
           I've also been deep diving into{" "}
@@ -113,42 +117,10 @@ export default function Home() {
             two separate conferences.
           </li>
           <li>
-            <b>ART.tv</b> [Typescript, Go]: I’ve always loved films, so it only
-            makes sense that I build a streaming platform for indie movies.
-            Inspired by Mubi and Twitch, this is my full-stack project where I
-            enable creators to showcase their arthouse and foreign language
-            films to the world.
-          </li>
-          <li>
-            <b>Cherenkov</b> [Rust, Go]: After participating in Andreas Kling’s
-            Browser Jam, I decided to build a minimal, full-fledged vim-based
-            web browser. This is more of a toy project to understand browser
-            engineering.
-          </li>
-          <li>
             <b>Loveless</b> [Go, Zig]: A cool edge database that focuses on
             auto-scaling and performance to handle massive multiplayer
             environments. Started building it as part of Summer of Shipping 2024
             after being inspired by Tiger Beetle and Turso.
-          </li>
-          <li>
-            <b>Kaze Switch</b> [Rust, OCaml]: Emulators have always been a
-            fascination of mine and unfortunately most switch emulators struggle
-            to run on low-end PCs. So I’m building my own lightning fast
-            Nintendo Switch emulator with portability and networked multiplayer
-            in mind.
-          </li>
-          <li>
-            <b>Terra</b> [C, Typescript]: Working on my own MMORPG as part of
-            the Ooga Booga Game Devs community, where a group of game devs come
-            together to ship great games from scratch, while mastering the
-            ancient art of Caveman Programming.
-          </li>
-          <li>
-            <b>Axogig</b> [Python, C++, CUDA]: Building a high-performance
-            distributed training framework to train neural nets across GPU
-            clusters seamlessly. Started off as a project for Buildspace’s
-            Nights & Weekends Season 5 and just kept continuing to work on it.
           </li>
         </ul>
         <p>
@@ -166,7 +138,7 @@ export default function Home() {
         I enjoy <b>solving novel systems</b> problems and prefer{" "}
         <b>building reliable tools</b> that just work and stand the test of
         time. This was inspired by using actually good software that never lets
-        me down and covers all of my uses such as <b>7zip, Vim, Curl, i3</b>,
+        me down and covers all of my uses such as <b>steam, </b>,
         etc. I really appreciate and value good documentation, especially ones
         from <b>SpaCy, Emacs, </b> and <b>Lua.</b>
       </p>
