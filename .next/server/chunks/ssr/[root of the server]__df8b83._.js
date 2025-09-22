@@ -258,7 +258,15 @@ function Home() {
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                         children: [
-                            "Thanks for visiting my about-me.md ! I'm a kernel-grade computer systems engineer and researcher with a strong focus on distributed systems & machine learning systems. I'm currently pursuing my masters in computer science at New York University and did my undergrad in electrical and computer engineering, mostly hacking around everything fun from ",
+                            "Thanks for visiting my ",
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("tt", {
+                                children: "about_me.md"
+                            }, void 0, false, {
+                                fileName: "[project]/app/page.tsx",
+                                lineNumber: 42,
+                                columnNumber: 34
+                            }, this),
+                            " ! I'm a kernel-grade computer systems engineer and researcher with a strong focus on distributed systems & machine learning systems. I'm currently pursuing my masters in computer science at New York University and did my undergrad in electrical and computer engineering, mostly hacking around everything fun from ",
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("b", {
                                 children: "large-language models"
                             }, void 0, false, {
@@ -667,10 +675,11 @@ function Home() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
-                className: "font-semibold pt-4",
+                className: "font-semibold pt-4 text-center",
                 children: [
                     "✦ Supercomputers, Distributed Computing & Systems for Fun and Profit",
-                    " "
+                    " ",
+                    " ✦"
                 ]
             }, void 0, true, {
                 fileName: "[project]/app/page.tsx",
@@ -685,10 +694,11 @@ function Home() {
             }, this),
             "Previous experience include exploring operating system design and HPC network architectures, hacking high performance storage systems such as Weka and Ceph, designing custom load-balancing algorithm to optimize serving efficiency, breaking the CUDA compiler, and performance enhancing virtual machines.",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
-                className: "font-semibold pt-4",
+                className: "font-semibold pt-4 text-center",
                 children: [
                     "✦ Writing Custom GPU Kernels for Machine Learning Systems",
-                    " "
+                    " ",
+                    " ✦"
                 ]
             }, void 0, true, {
                 fileName: "[project]/app/page.tsx",
@@ -697,8 +707,8 @@ function Home() {
             }, this),
             "I’ve always had a deep fascination with GPUs ever since I played Crysis 3 as a kid. Now, I explore ways of writing my own high-performance GPU/CPU compute kernels for fun and that led me down a rabbit hole of optimizing CUDA kernels for TPUs, GPUs & AWS Trainium. I'd like to see how far I can push modern-day GPUs by studying the performance characteristics of various GPU architectures and optimizing compilers to leverage their hardware features like tensor cores.",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
-                className: "font-semibold pt-4",
-                children: "✦ Managing Infrastructure and Handling SEV-1 for Breakfast"
+                className: "font-semibold pt-4 text-center",
+                children: "✦ Managing Infrastructure and Handling SEV-1 for Breakfast ✦"
             }, void 0, false, {
                 fileName: "[project]/app/page.tsx",
                 lineNumber: 179,
@@ -712,10 +722,11 @@ function Home() {
             }, this),
             "I'm not afraid to delve one level deeper using tools like eBPF to monitor and mitigate excessive CPU usage, instrumenting the Linux scheduler with ftrace and perfetto, analyzing request latency using sampling profilers like gprof, trying and failing to configure Kubernetes for optimal workload performance, using pprof to optimize Go code & maintain top performance across services and more spells under my sleeve.",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
-                className: "font-semibold pt-4",
+                className: "font-semibold pt-4 text-center",
                 children: [
                     "✦ Hacking Hardware Architectures & Performance Engineering",
-                    " "
+                    " ",
+                    " ✦"
                 ]
             }, void 0, true, {
                 fileName: "[project]/app/page.tsx",

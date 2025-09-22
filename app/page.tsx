@@ -39,7 +39,7 @@ export default function Home() {
       <AnimatedName />
       <div className="text-gray-800 space-y-4 leading-snug">
         <p>
-          Thanks for visiting my about-me.md ! I'm a kernel-grade computer systems engineer and researcher
+          Thanks for visiting my <tt>about_me.md</tt> ! I'm a kernel-grade computer systems engineer and researcher
           with a strong focus on distributed systems & machine learning systems.
           I'm currently pursuing my masters in computer science at New York University and did my undergrad in electrical
           and computer engineering, mostly hacking around everything fun from <b>large-language models</b> to{" "}
@@ -151,8 +151,8 @@ export default function Home() {
         of Procedural and Functional programming sprinkled in. Here are some of
         my professional interests in greater detail:
       </p>
-      <h4 className="font-semibold pt-4">
-        ✦ Supercomputers, Distributed Computing & Systems for Fun and Profit{" "}
+      <h4 className="font-semibold pt-4 text-center">
+        ✦ Supercomputers, Distributed Computing & Systems for Fun and Profit{" "} ✦
       </h4>
       One of my primary interests lies in designing and building novel,
       high-performance systems for machine learning, particularly at
@@ -166,8 +166,8 @@ export default function Home() {
       Weka and Ceph, designing custom load-balancing algorithm to optimize
       serving efficiency, breaking the CUDA compiler, and performance enhancing
       virtual machines.
-      <h4 className="font-semibold pt-4">
-        ✦ Writing Custom GPU Kernels for Machine Learning Systems{" "}
+      <h4 className="font-semibold pt-4 text-center">
+        ✦ Writing Custom GPU Kernels for Machine Learning Systems{" "} ✦
       </h4>
       I’ve always had a deep fascination with GPUs ever since I played Crysis 3
       as a kid. Now, I explore ways of writing my own high-performance GPU/CPU
@@ -176,8 +176,8 @@ export default function Home() {
       push modern-day GPUs by studying the performance characteristics of
       various GPU architectures and optimizing compilers to leverage their
       hardware features like tensor cores.
-      <h4 className="font-semibold pt-4">
-        ✦ Managing Infrastructure and Handling SEV-1 for Breakfast
+      <h4 className="font-semibold pt-4 text-center">
+        ✦ Managing Infrastructure and Handling SEV-1 for Breakfast ✦
       </h4>
       I take great pleasure in deploying on bare-metal machines and building
       tooling for infrastructure engineers. As a proud supporter of self-host
@@ -192,8 +192,8 @@ export default function Home() {
       like gprof, trying and failing to configure Kubernetes for optimal
       workload performance, using pprof to optimize Go code & maintain top
       performance across services and more spells under my sleeve.
-      <h4 className="font-semibold pt-4">
-        ✦ Hacking Hardware Architectures & Performance Engineering{" "}
+      <h4 className="font-semibold pt-4 text-center">
+        ✦ Hacking Hardware Architectures & Performance Engineering{" "} ✦
       </h4>
       Building robust, low-latency hardware & applications to serve billions of
       users has always been a career goal of mine. I would actually love to put
