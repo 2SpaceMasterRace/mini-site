@@ -7,7 +7,7 @@ function AnimatedName() {
       <span className="sr-only">Hari Varsha</span>
       <span aria-hidden="true" className="block overflow-hidden group relative">
         <span className="inline-block transition-all duration-300 ease-in-out group-hover:-translate-y-full">
-          {"vxsha-256".split("").map((letter, index) => (
+          {"Hari Varsha".split("").map((letter, index) => (
             <span
               key={index}
               className="inline-block"
@@ -39,47 +39,44 @@ export default function Home() {
       <AnimatedName />
       <div className="text-gray-800 space-y-4 leading-snug">
         <p>
-          Hi! I'm <b>Hari Varsha</b>, better known as vxsha-256 or nanodijkstra
-          around the internet. From an early age, I’ve been captivated by
-          computers, spending almost all my free time playing Pokémon MMOs,
-          watching old-school noir films, and doomscrolling through internet
-          forums learning random trivia in the process.
+          Hi! I'm <b>Hari Varsha V</b>, better known as nanodijkstra
+          around the internet. I'm a kernel-grade computer systems engineer and researcher
+          with a strong focus on distributed systems & machine learning systems.
+          I'm currently pursuing my masters in computer science at New York University and did my undergrad in electrical
+          and computer engineering, mostly hacking around everything fun from <b>large-language models</b> to{" "}
+          <b>embedded microcontrollers</b>. I like programming in Rust, OCaml, C++, and Python.
         </p>
         <p>
-          I'm a fresh Electrical and Computer Engineering grad. I've hacked
-          around everything fun from <b>large-language models</b> to{" "}
-          <b>embedded microcontrollers</b> and worked as a Summer Research
-          Intern @ <b>UCSC (Go Slugs!)</b> and as a lab member for over a year.
-          I specialize in building the next-generation serverless platforms and
-          machine learning systems.
-        </p>
-        <p>
-          Over the years, I’ve become deeply entrenched in the world of{" "}
+          I've worked as a Summer Research Intern @ <b>UCSC (Go Slugs!)</b> and as a lab member for over a year. 
+          I was also fortunate enough to work with Prof. KC Sivaramakrishnan on Hardcaml, Jane Street's embedded DSL for designing and testing hardware designs
+        at Indian Institute Of Technology, Madras. Over the years, I’ve become deeply entrenched in the world of{" "}
           <b>
-            deep systems programming, AI research, game engine development, and
-            cloud infrastructure.{" "}
+            performance engineering, low-level systems programming, AI research, and deep-learning infrastructure.{" "}
           </b>
-          Apart from intense development, I like consuming comics like XKCD and
+          Apart from intense development, I like consuming comics like Null Pointer and
           SMBC, reading Hacker News threads, and essays from cool people like
-          Paul Graham & Joel Spolsky.
+          Paul Graham & Joel Spolsky. Outside of my career you can find me spending all my time with my beautiful wife.
+          I like watching films/tv-shows/anime/random-youtube-essays/podcasts, reading manga and literature, playing video-games, learning new languages and train wrestling / muay-thai.
+          Lately I've been trying to get good at artisinal cooking, finance and math/lingustic/informatics olympiads. 
         </p>
         <p>
           I lead the <b>Arcane Systems Reading Group</b>, a collective of
           systems nerds who explore niche topics like compilers, operating
-          systems, distributed systems, low-latency systems, and performance
-          engineering. My career goals can essentially be boiled down to
-          producing the same influence as YEAT, DVRST, Playboi Carti, and{" "}
-          <strong>Kendrick Lamar but for computer science</strong> as a whole.
+          systems, distributed systems, file systems, internet protocols, GPU orchestration,
+          etc. My career goals can essentially be boiled down to
+          producing the same influence as <strong>Kanye West but for computer science</strong> as a whole.
         </p>
 
         <h2 className="font-semibold pt-4">Current</h2>
         <div className="bg-gray-100 border-l-4 border-blue-500 text-gray-700 p-4 my-4">
           <p>
-            🚨 I am currently applying to graduate programs for computer science
-            for Fall 2025, and I'm <b>open to MS/PhD programs</b>. If you'd like
-            a hardworking & passionate student on your team, please reach out to
-            any of my contacts found in the bottom of this website. Thank you so
-            much for your consideration ! 🚨
+            🚨 I am currently looking for <b>summer-2026 internships / software engineering</b> roles. I am open to dropping out of my masters program 
+            if our interests co-incide and your work is super interesting. If you'd like an old-school dedicated, hardworking & passionate hacker on your team, 
+            please reach out to any of my contacts found in the bottom of this website. I'm an international student 
+            on F-1 visa & I will need sponsorship (H1-B), but please still get in touch with me if you think you'd like to add 
+            some personality to your team ( promise to still make huge impacts to your mission :) ). I am not afraid to get my hands dirty and put in the time 
+            to be good at my craft, and I love working with people with more expierince than me (I'm a sucker for engineering war stories and desire to be creative in ways i can nuke prod). 
+            Thank you so much for your consideration ! 🚨
           </p>
         </div>
         <p>
@@ -237,21 +234,7 @@ export default function Home() {
       developing GPU Task Schedulers, and implementing low-latency
       high-throughput sampling for large language models. Other strong interests
       include orchestration engines, block storage systems and compute services.
-      <h4 className="font-semibold pt-4">
-        ✦ Crafting Interactions with Love & Creative Frontend Engineering
-      </h4>
-      As an interactive designer and creative front-end engineer, the web is
-      just another canvas for me to create art and express stories. I am
-      particularly fascinated by the challenge of delivering beautifully
-      designed websites like those in Awwwards and Godly. I’m fortunate enough
-      to upskill myself in various aspects of design, from typographic layouts
-      to implementing complex web specs to get things done. <br />I have
-      experience in building front-end infrastructure tooling and thrive in
-      startupy backgrounds where ambiguity is the norm. I excel in building
-      complex and gorgeous products, and have a high degree of empathy for
-      user-experience, accessibility, and ownership. Taking products from 0 → 1
-      and designing high-quality, joy-inducing, beautiful interfaces that make a
-      real impact are my strong suits.
+
       <h2 className="font-semibold pt-8">Connect</h2>
       <center>
         <blockquote>

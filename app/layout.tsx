@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     default: 'Hari Varsha',
     template: '%s | Hari Varsha',
   },
-  description: 'systems programming  ✦ machine learning  ✦ multidisciplinary front-end engineering',
+  description: 'systems programming  ✦ machine learning systems',
 };
 
 export default function RootLayout({
