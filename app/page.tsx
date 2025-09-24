@@ -46,12 +46,26 @@ export default function Home() {
           <b>embedded microcontrollers</b>. I like programming in Rust, OCaml, C++, and Python.
         </p>
         <p>
+<<<<<<< HEAD
           I've worked as a Summer Research Intern @ <b>UCSC (Go Slugs!)</b> and as a lab member for over a year. 
           I was also fortunate enough to work with Prof. KC Sivaramakrishnan on Hardcaml, Jane Street's embedded DSL for designing and testing hardware designs
         at Indian Institute Of Technology, Madras. Over the years, I’ve become deeply entrenched in the world of{" "}
           <b>
             performance engineering, low-level systems programming, AI research, and deep-learning infrastructure.{" "}
           </b>
+=======
+j         I've worked as a Summer Research Intern @ <b>UCSC (Go Slugs!)</b> and as a lab member at <a href="https://tech4good.soe.ucsc.edu/"> Tech4Good </a> for over a year. 
+          I was also fortunate enough to work with <a href = "https://kcsrk.info/"> Prof. KC Sivaramakrishnan </a> at <b>Indian Institute Of Technology, Madras</b> on <a href="https://github.com/janestreet/hardcaml"> Hardcaml </a>, Jane Street's embedded DSL for designing and testing hardware designs
+        . Over the years, I’ve become deeply entrenched in the world of{" "}
+          <b>
+            performance engineering, low-level systems programming, AI research, and deep-learning infrastructure.{" "}
+          </b>
+
+        designing and optimizing kernels for the TPU. solving large-scale systems problems and low-level optimization.
+Have significant experience optimizing ML systems for TPUs, GPUs, and other accelerators
+Understanding accelerators at a deep level
+
+>>>>>>> 67652d7 (Redesign of Website - 2.1.2.2)
         </p>
         <p>
           I lead the <b>Arcane Systems Reading Group</b>, a collective of
