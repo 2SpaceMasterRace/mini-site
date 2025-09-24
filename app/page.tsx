@@ -7,7 +7,7 @@ function AnimatedName() {
       <span className="sr-only">Hari Varsha</span>
       <span aria-hidden="true" className="block overflow-hidden group relative">
         <span className="inline-block transition-all duration-300 ease-in-out group-hover:-translate-y-full">
-          {"Hello, I'm Hari Varsha V".split("").map((letter, index) => (
+          {"Hey, I'm Hari Varsha V".split("").map((letter, index) => (
             <span
               key={index}
               className="inline-block"
@@ -39,10 +39,10 @@ export default function Home() {
       <AnimatedName />
       <div className="text-gray-800 space-y-4 leading-snug">
         <p>
-          Thanks for visiting my <code>about_me.md</code> ! I'm a kernel-grade computer systems engineer and researcher
-          with a strong focus on distributed systems & machine learning systems.
+          Thanks for visiting my <tt>about_me.md</tt> ! I'm a kernel-grade computer systems engineer and researcher
+          with a strong focus on databases, distributed systems, and machine learning systems.
           I'm currently pursuing my masters in computer science at New York University and did my undergrad in electrical
-          and computer engineering, mostly hacking around everything fun from <b>large-language models</b> to{" "}
+          and computer engineering, where I spent my time hacking around with everything fun from <b>large-language models</b> to{" "}
           <b>embedded microcontrollers</b>. I like programming in Rust, OCaml, C++, and Python.
         </p>
         <p>
@@ -52,24 +52,25 @@ export default function Home() {
           <b>
             performance engineering, low-level systems programming, AI research, and deep-learning infrastructure.{" "}
           </b>
+        </p>
+        <p>
+          I lead the <a href = "https://github.com/Arcane-Systems-Reading-Group"><b>Arcane Systems Reading Group</b></a>, a collective of systems nerds
+          who explore niche topics like compilers, databases, operating system kernels, formal methods,
+          distributed systems, large-scale infrastructure, compute orchestration and performance optimization. 
+          I also write essays on deep-tech in <a href = "https://substack.com/@nanodijkstra">Substack</a> and
+          stream development on <a href = "https://discord.com/invite/BtzP3eH4R3">Discord</a>,<a href = "https://www.twitch.tv/nanod1jkstra"> Twitch </a> 
+           and <a href = "https://www.youtube.com/@ArcaneSystemsReadingGroup"> Youtube</a>. 
+          My career goals can essentially be boiled down to producing the same influence as {" "} <strong>Kanye West but for computer 
+          science</strong> as a whole.
 
-        designing and optimizing kernels for the TPU. solving large-scale systems problems and low-level optimization.
-Have significant experience optimizing ML systems for TPUs, GPUs, and other accelerators
-Understanding accelerators at a deep level
         </p>
         <p>
-          I lead the <b>Arcane Systems Reading Group</b>, a collective of
-          systems nerds who explore niche topics like compilers, operating
-          systems, distributed systems, file systems, internet protocols, GPU orchestration,
-          etc. My career goals can essentially be boiled down to
-          producing the same influence as <strong>Kanye West but for computer science</strong> as a whole.
-        </p>
-        <p>
-          Apart from intense development, I like consuming comics like Null Pointer and
-          SMBC, reading Hacker News threads, and essays from cool people like
-          Paul Graham & Joel Spolsky. Outside of my career you can find me spending all my time with my beautiful wife.
-          I like watching films/tv-shows/anime/random-youtube-essays/podcasts, reading manga and literature, playing video-games, learning new languages and train wrestling / muay-thai.
-          Lately I've been trying to get good at artisinal cooking, finance and math/lingustic/informatics olympiads. 
+          Outside of my career, you can find me spending all my time with my beautiful wife. {" "}
+          I like playing video games, reading manga and literature, and watching films, anime, tv-shows, random youtube essays, and podcasts. 
+          I also plan to break into brazilian jiu-jitsu, wrestling and muay-thai. Lately I've been trying to get good at fine dining, finance and
+          math/lingustic/informatics olympiads. I try to live a simple life as much as I can, with my biggest inspiration
+          being <a href = "https://kingofthehill.fandom.com/wiki/Hank_Hill">Hank</a> from King of the Hill. 
+
         </p>
 
         <h2 className="font-semibold pt-4">Current</h2>
