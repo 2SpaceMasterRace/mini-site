@@ -41,9 +41,9 @@ export default function Home() {
         <p>
           Thanks for visiting my <tt>about_me.md</tt> ! I'm a kernel-grade computer systems engineer and researcher
           with a strong focus on databases, distributed systems, and machine learning systems.
-          I'm currently pursuing my masters in computer science at New York University and did my undergrad in electrical
+          I'm currently pursuing my master's in computer science at New York University and did my undergrad in electrical
           and computer engineering, where I spent my time hacking around with everything fun from <b>large-language models</b> to{" "}
-          <b>embedded microcontrollers</b>. I like programming in Rust, OCaml, C++, and Python.
+          <b>embedded microcontrollers</b>. I like programming in Rust, OCaml, C++, Lua, and Python.
         </p>
         <p>
          I've worked as a Summer Research Intern @ <b>UCSC (Go Slugs!)</b> and as a lab member at <a href="https://tech4good.soe.ucsc.edu/"> Tech4Good </a> for over a year. 
@@ -92,7 +92,7 @@ export default function Home() {
             <br />
             <br />
  
-            • I enjoy cultivating deep technical competence, seek feedback constantly, and always am on the lookout to expand my skills. I also know what I don't know and am not afraid to reach out for help.
+            • I enjoy cultivating deep technical competence, seek feedback constantly, and always am on the lookout to expand my skills. I also know what I don't know, and am not afraid to reach out for help.
             <br />
             <br />
  
@@ -134,14 +134,7 @@ export default function Home() {
         
             </p>
         </div>
-        <p>
-          I'm having a great time reading source code of{" "}
-          <b>Unix-based Kernels</b> and dissecting{" "}
-          <b>Kernel-Level anti-cheats</b>, implementing research papers like the{" "}
-          <b>Raft protocol</b> and watching conferences such as{" "}
-          <b>CPPcon and Zig Showtime</b>. 
-        </p>
-        <p>
+       <p>
           I've also been deep diving into{" "}
           <b>internals of Zig programming language</b>, writing my own{" "}
           <b>Linux Kernel Module</b> in C and Zig, and experimenting on{" "}
@@ -153,9 +146,7 @@ export default function Home() {
 
         <h2 className="font-semibold pt-4">Ongoing Projects</h2>
         <p>
-          My projects reflect my interests in machine learning infrastructure,
-          hardware engineering, video-game development, and systems-level
-          programming. Here are some projects I’m currently working on:
+          My projects reflect my interests in ai infrastructure and systems-level programming. Here are some projects I’m currently working on:
         </p>
         <ul className="list-disc pl-6 space-y-2">
           <li>
@@ -184,21 +175,22 @@ export default function Home() {
       </div>
       <h2 className="font-semibold pt-4">Career Interests</h2>
       <p>
-        I enjoy <b>solving novel systems</b> problems and prefer{" "}
-        <b>building reliable tools</b> that just work and stand the test of
-        time. This was inspired by using actually good software that never lets
-        me down and covers all of my uses such as <b>steam, </b>,
-        etc. I really appreciate and value good documentation, especially ones
-        from <b>SpaCy, Emacs, </b> and <b>Lua.</b>
+        I enjoy <b>building novel systems</b> and {" "}
+        <b>reliable tools</b> that work seamlessly and stand the test of
+        time. This was inspired by using and exploring the design of beautiful software 
+        such as <b>vim/emacs</b>, <b>ripgrep</b>, <b>fish shell</b>, <b>linear</b>, <b>sqlite</b>,
+        <b> signal</b>, <b>graphviz</b>, <b>blender</b>, <b>linux mint</b>, and much more. 
       </p>
       <p>
         My experience has allowed me to <b>prioritize ownership</b> and{" "}
         <b>autonomy</b> over my work. I deeply care about my craft and tend to
         have healthy debates over various programming topics, especially with
         senior engineers. My engineering philosophy is heavily inspired by{" "}
-        <b>Andrew Kelley's Practical Data Oriented Design</b> with some elements
-        of Procedural and Functional programming sprinkled in. Here are some of
-        my professional interests in greater detail:
+       <a href = "https://tigerstyle.dev/"><b>TIGER_STYLE</b></a>,
+       <a href = "https://www.youtube.com/watch?v=IroPQ150F6c"><b> Andrew Kelley's Practical Data Oriented Design</b></a>,
+        <a href = "https://matklad.github.io/2022/10/06/hard-mode-rust.html"><b> Hard-Mode Rust</b></a>,
+        and some <a href = "https://www.youtube.com/watch?v=3n17wHe5wEw">elements</a> of <a href="https://www.youtube.com/watch?v=kZ1P8cHN3pY "> <b>functional programming</b></a>. 
+        Here are some of my professional interests in greater detail:
       </p>
       <h4 className="font-semibold pt-4 text-center">
         ✦ Supercomputers, Distributed Computing & Systems for Fun and Profit{" "} ✦
