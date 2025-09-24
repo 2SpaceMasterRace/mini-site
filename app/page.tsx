@@ -33,12 +33,6 @@ function AnimatedName() {
   );
 }
 
-declare namespace JSX {
-  interface IntrinsicElements {
-    tt: React.DetailedHTMLProps<React.HTMLAttributes<HTMLElement>, HTMLElement>;
-  }
-}
-
 export default function Home() {
   return (
     <>
@@ -73,7 +67,7 @@ export default function Home() {
         <p>
           Outside of my career, you can find me spending all my time with my beautiful wife. {" "}
           I like playing video games, reading manga and literature, and watching films, anime, tv-shows, random youtube essays, and podcasts. 
-          I also plan to break into brazilian jiu-jitsu, wrestling and muay-thai. Lately I've been trying to get good at fine dining, finance and
+          I also plan to break into brazilian jiu-jitsu, wrestling and muay-thai. Lately I've been trying to get good at fine dining, finance, and
           math/lingustic/informatics olympiads. I try to live a simple life as much as I can, with my biggest inspiration
           being <a href = "https://kingofthehill.fandom.com/wiki/Hank_Hill">Hank</a> from King of the Hill. 
 
@@ -82,18 +76,62 @@ export default function Home() {
         <h2 className="font-semibold pt-4">Current</h2>
         <div className="bg-gray-100 border-l-4 border-blue-500 text-gray-700 p-4 my-4">
           <p>
-            🚨 I am looking for <b>summer-2026 internships / software engineering</b> roles 🚨 <br />
+            🚨 I'm looking for <b>summer-2026 internships / software engineering </b>roles 🚨 <br />
             <br />
-            I am open to dropping out of my masters program if our interests co-incide and your work is super interesting.
-            If you'd like an old-school dedicated, hardworking & passionate hacker on your team, 
-            please reach out to any of my contacts found in the bottom of this website. <br />
-            <br /> 
-
-
-            I'm an international student on F-1 visa & I will need sponsorship (H1-B), but please still get in touch with me if you think you'd like to add 
-            some personality to your team ( promise to still make huge impacts to your mission :) ). I am not afraid to get my hands dirty and put in the time 
-            to be good at my craft, and I love working with people with more expierince than me (I desire to be creative in ways i can nuke prod). 
+            If you'd like a dedicated, hardworking, & passionate hacker on your team, please reach out at
+             <a href = "mailto:hv2241@nyu.edu"> hv2241 [at] nyu [dot] edu</a> or any of my contacts found in the bottom of this website. 
+            I am open to dropping out of my master's program if our interests coincide and we can work on cool stuff together. 
             Thank you so much for your consideration ! 
+
+            <br />
+            <br />
+            <div className = " text-center"> Here's a quick TL;DR of me : </div>
+            <br />
+            
+            • I have an extreme bias for rapid prototyping and building quality software fast. I'm also hyper-optimistic on new techniques and energetic when it comes to my work.
+            <br />
+            <br />
+ 
+            • I enjoy cultivating deep technical competence, seek feedback constantly, and always am on the lookout to expand my skills. I also know what I don't know and am not afraid to reach out for help.
+            <br />
+            <br />
+ 
+            • I learn relatively quickly, can hit the ground running and not afraid to debug complex codebases. I have genuine passion for delivering outstanding results.
+            <br />
+            <br />
+ 
+            • I'm a niche subset of T-shaped developer, and my operating principles were hugely inspired by <a href = "https://cdn.fastly.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf"> Valve's Employee handbook </a>
+            and the blogs of <a href ="https://www.paulgraham.com/hwh.html"> Paul Graham </a> and <a href = "https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/"> Joel Spolsky </a>. 
+
+            <br />
+            <br />
+          
+            <div className = "text-center">I also want to be honest here, so you have the full picture.</div>
+            <br />
+
+            • I’m an international student on an F-1 visa and will require future sponsorship (H-1B). I take time to deeply understand problems,
+            learn the right tools, explore different solutions, and develop a strong grasp of the codebase.
+
+            <br />
+            <br />
+
+            •  Because of my ADHD, I thrive best in environments where I’m given autonomy rather than being micromanaged and need some amount of healthy personal mentorship.
+            <br />
+            <br />
+            • I tend to ask tons of questions and am a slow learner by nature.
+            While it may take me a little longer than average to fully settle in, this allows me to maximize my long-term growth and impact. I like to build
+            what’s often called “tribal knowledge,” so I can contribute effectively and help team members quickly.
+
+          <br />
+          <br />
+          • In the past, I pushed myself too hard and now working extremely long hours isn’t sustainable for me anymore.
+          That said, I’m more than committed and resilient enough to put in the hours needed when things get tough, which they always do. 
+
+          <br />
+          <br />
+          Now that you know pretty much everything about me as your future team-mate and friend, we could build meaningful connection around our shared love
+          for computers and building products people love :) 
+        
             </p>
         </div>
         <p>
