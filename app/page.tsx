@@ -39,7 +39,7 @@ export default function Home() {
       <AnimatedName />
       <div className="text-gray-800 space-y-4 leading-snug">
         <p>
-          Thanks for visiting my <tt>about_me.md</tt> ! I'm a kernel-grade computer systems engineer and researcher
+          Thanks for visiting my <code>about_me.md</code> ! I'm a kernel-grade computer systems engineer and researcher
           with a strong focus on distributed systems & machine learning systems.
           I'm currently pursuing my masters in computer science at New York University and did my undergrad in electrical
           and computer engineering, mostly hacking around everything fun from <b>large-language models</b> to{" "}
