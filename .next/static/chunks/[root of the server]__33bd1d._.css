@@ -2385,6 +2385,10 @@
     vertical-align: top;
   }
 
+  .font-mono {
+    font-family: var(--font-family-mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace);
+  }
+
   .text-9xl {
     font-size: var(--font-size-9xl, 8rem);
     line-height: var(--font-size-9xl--line-height, 1);

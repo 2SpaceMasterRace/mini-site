@@ -33,6 +33,12 @@ function AnimatedName() {
   );
 }
 
+declare namespace JSX {
+  interface IntrinsicElements {
+    tt: React.DetailedHTMLProps<React.HTMLAttributes<HTMLElement>, HTMLElement>;
+  }
+}
+
 export default function Home() {
   return (
     <>
