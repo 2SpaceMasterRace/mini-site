@@ -85,7 +85,7 @@ export default function Home() {
 
             <br />
             <br />
-            <div className = " text-center"> Here's a quick TL;DR of me : </div>
+            <div className = " text-center"> <b> Here's a quick TL;DR of me : </b></div>
             <br />
             
             • I have an extreme bias for rapid prototyping and building quality software fast. I'm also hyper-optimistic on new techniques and energetic when it comes to my work.
@@ -100,13 +100,13 @@ export default function Home() {
             <br />
             <br />
  
-            • I'm a niche subset of T-shaped developer, and my operating principles were hugely inspired by <a href = "https://cdn.fastly.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf"> Valve's Employee handbook </a>
+            • I'm a niche subset of T-shaped developer, and my operating principles were hugely inspired by <a href = "https://cdn.fastly.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf"> Valve's Employee Handbook </a>
             and the blogs of <a href ="https://www.paulgraham.com/hwh.html"> Paul Graham </a> and <a href = "https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/"> Joel Spolsky </a>. 
 
             <br />
             <br />
           
-            <div className = "text-center">I also want to be honest here, so you have the full picture.</div>
+            <div className = "text-center"><b> I also want to be honest here, so you have the full picture </b></div>
             <br />
 
             • I’m an international student on an F-1 visa and will require future sponsorship (H-1B). I take time to deeply understand problems,
@@ -135,6 +135,7 @@ export default function Home() {
             </p>
         </div>
        <p>
+       Design and Analysis of Algorithms I, Introduction to Operating Systems, Artificial Intelligence I
           I've also been deep diving into{" "}
           <b>internals of Zig programming language</b>, writing my own{" "}
           <b>Linux Kernel Module</b> in C and Zig, and experimenting on{" "}
@@ -175,32 +176,37 @@ export default function Home() {
       </div>
       <h2 className="font-semibold pt-4">Career Interests</h2>
       <p>
-        I enjoy <b>building novel systems</b> and {" "}
+        I enjoy building <b>novel systems</b> and {" "}
         <b>reliable tools</b> that work seamlessly and stand the test of
-        time. This was inspired by using and exploring the design of beautiful software 
-        such as <b>vim/emacs</b>, <b>ripgrep</b>, <b>fish shell</b>, <b>linear</b>, <b>sqlite</b>,
-        <b> signal</b>, <b>graphviz</b>, <b>blender</b>, <b>linux mint</b>, and much more. 
+        time. This was inspired by using and exploring the design of beautiful softwares 
+        such as <b>Vim/Emacs</b>, <b>Ripgrep</b>, <b>Fish shell</b>, <b>Linear</b>, <b>SQLite</b>,
+        <b> Signal</b>, <b>Graphviz</b>, <b>Blender</b>, <b>Linux Mint</b>, and much more. 
       </p>
       <p>
-        My experience has allowed me to <b>prioritize ownership</b> and{" "}
-        <b>autonomy</b> over my work. I deeply care about my craft and tend to
-        have healthy debates over various programming topics, especially with
+        My experiences allowed me to prioritize <b>ownership, autonomy</b> and{" "}
+        align myself with a  <b>strong sense of mission</b> over my work. My process for building 
+        cutting-edge systems is through rigorous engineering with creative exploration.
+        I strive to write simple and clean code that is incredibly well-tested enough to be
+        understandable, approachable, and thoughtful.
+        <br />
+        <br />
+
+        I deeply care about my craft and tend to have healthy debates over various programming topics, especially with
         senior engineers. My engineering philosophy is heavily inspired by{" "}
        <a href = "https://tigerstyle.dev/"><b>TIGER_STYLE</b></a>,
        <a href = "https://www.youtube.com/watch?v=IroPQ150F6c"><b> Andrew Kelley's Practical Data Oriented Design</b></a>,
         <a href = "https://matklad.github.io/2022/10/06/hard-mode-rust.html"><b> Hard-Mode Rust</b></a>,
         and some <a href = "https://www.youtube.com/watch?v=3n17wHe5wEw">elements</a> of <a href="https://www.youtube.com/watch?v=kZ1P8cHN3pY "> <b>functional programming</b></a>. 
-        Here are some of my professional interests in greater detail:
+        Here are some of my professional interests in greater detail :
       </p>
       <h4 className="font-semibold pt-4 text-center">
-        ✦ Supercomputers, Distributed Computing & Systems for Fun and Profit{" "} ✦
+        ✦ Supercomputers, Distributed Computing & Databases for Fun and Profit{" "} ✦
       </h4>
       One of my primary interests lies in designing and building novel,
       high-performance systems for machine learning, particularly at
       supercomputing scale. As a humble systems engineer, I'd kill to work on
       interesting projects like optimizing container runtimes, implementing
-      distributed file systems, and building large-scale data processing
-      applications like Apache Hadoop.
+      distributed file systems, and building query engines like Apache DataFusion.
       <br />
       Previous experience include exploring operating system design and HPC
       network architectures, hacking high performance storage systems such as
@@ -256,12 +262,12 @@ export default function Home() {
         <i> - African Proverb</i>
       </center>
       <p>
-        Giving back to the community and{" "}
-        <strong>paying kindness forward </strong> are important virtues I try to
-        prioritize and practice. I'm always open to discussing any project or
-        startup idea you'd want to talk about. Take a look at my socials below
-        and feel free to get in touch for a coffee chat or collaboration. I'll
-        be happy to chat ^-^
+        <strong>Paying kindness forward </strong> is an important virtue  I try to
+        prioritize and practice. I'm always open to discussing career plans,
+        startup ideas, or even research interests. Feel free to get in touch for
+        a coffee chat through the contacts below. I particularly encourage
+        students from underrepresented groups or disadvantaged backgrounds who aspire to break into systems
+        to connect with me. I'll be happy to chat and help in any way I can ^-^ 
       </p>
     </>
   );
