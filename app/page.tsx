@@ -40,7 +40,7 @@ export default function Home() {
       <div className="text-gray-800 space-y-4 leading-snug">
         <p>
           Thanks for visiting my <tt>about_me.md</tt> ! I'm a kernel-grade computer systems engineer and researcher 
-          with a strong focus on databases, distributed systems, and machine learning systems.
+          with a strong focus on distributed systems and machine learning systems.
           I'm currently pursuing my master's in computer science at <b>New York University</b> and did my undergrad in electrical
           and computer engineering, where I spent my time hacking around with everything fun from <b>large-language models</b> to{" "}
           <b>embedded microcontrollers</b>. I like programming in Rust, OCaml, C++, and Python.
@@ -113,7 +113,7 @@ export default function Home() {
             <br />
             <br />
 
-            •  Because of my ADHD, I thrive best in environments where I’m given autonomy rather than being micromanaged, and I also need a healthy level of mentorship to stay on track and grow meaningfully.
+            • Due to my ADHD, I thrive best in environments where I’m given autonomy rather than being micromanaged, and I also need a healthy level of mentorship to stay on track and grow meaningfully.
             <br />
             <br />
             • I tend to ask tons of questions and am a slow learner by nature.
@@ -134,7 +134,7 @@ export default function Home() {
         </div>
        <p>
           <b>Projects: </b>I've been deep diving into <b>Distributed Serverless Engines</b> in Python, writing my own <b>Linux Kernel Modules</b> in C,
-          and experimenting with <b>Hash Tables</b> in Rust to learn them on a fundamental level. 
+          and experimenting with <b>Hash Tables</b> in Rust to understand them on a fundamental level. 
           <br/>
           <br/>
           <b>Books: </b>I've been enjoying reading <b>Database Internals</b> by Alex Petrov, <b>Operating Systems: Three Easy Pieces </b> 
@@ -145,7 +145,7 @@ export default function Home() {
         <p>
           I'm currently focusing on hacking around the entire machine learning stack (models, kernels, compilers, and hardware)
           and database stack (data models, storage engines, query engines, and distributed systems) from scratch. Unfortunately, my other projects
-          have been on hold, incuding my open-source project Memspect.
+          have been on hold, including my open-source project Memspect.
         </p>
         <ul className="list-disc pl-6 space-y-2">
           <li>
@@ -183,7 +183,7 @@ export default function Home() {
         <b>reliable tools</b> that work seamlessly and stand the test of
         time. This was inspired by using and exploring the design of beautiful software 
         such as <b>Vim/Emacs</b>, <b>Ripgrep</b>, <b>Fish shell</b>, <b>Linear</b>, <b>SQLite</b>,
-        <b> Signal</b>, <b>Graphviz</b>, <b>Blender</b>, <b>Linux Mint</b>, and much more. 
+        <b> Signal</b>, <b>Graphviz</b>, <b>Blender</b>, <b>Linux Mint</b>, and many more. 
       </p>
       <p>
         My experiences have taught me to prioritize <b>ownership, autonomy, </b> and{" "}
@@ -194,8 +194,8 @@ export default function Home() {
         <br />
         <br />
 
-        I deeply care about my craft and tend to have disuss various programming topics with
-        senior engineers and experts. My engineering philosophy is heavily inspired by{" "}
+        I deeply care about my craft and often discuss various programming topics with
+        senior engineers and domain experts. My engineering philosophy is heavily inspired by{" "}
        <a href = "https://tigerstyle.dev/"><b>TIGER_STYLE</b></a>,
        <a href = "https://www.youtube.com/watch?v=IroPQ150F6c"><b> Andrew Kelley's Practical Data Oriented Design</b></a>,
         <a href = "https://matklad.github.io/2022/10/06/hard-mode-rust.html"><b> Hard-Mode Rust</b></a>,
@@ -204,10 +204,10 @@ export default function Home() {
       </p>
 
       <h4 className="font-semibold pt-4 text-center">
-        ✦ Writing custom GPU kernels & GPU performance tuning  ✦
+        ✦ Writing custom GPU kernels & machine learning performance engineering ✦
       </h4>
       I’ve always had a deep fascination with GPUs ever since I played Crysis 3
-      as a kid. Now, I explore ways of writing my own high-performance 
+      as a kid. Today, I explore ways of writing my own high-performance 
       CUDA kernels for TPUs, GPUs & AWS Trainium. I'd like to study the
       performance characteristics of various GPU architectures and 
       optimize compilers to leverage their hardware features like tensor cores.
@@ -223,15 +223,15 @@ export default function Home() {
       <br />
       I love exploring operating system design and HPC network architectures,
       hacking high performance storage systems like Weka and Ceph, 
-      designing custom load-balancing algorithm to optimize serving efficiency,
+      designing custom load-balancing algorithms to optimize serving efficiency,
       breaking the CUDA compiler, and enhancing virtual machines performance.
 
       <h4 className="font-semibold pt-4 text-center">
-        ✦ Building Infrastructure from scratch & handling SEV-1 for breakfast ✦
+        ✦ Building scalable, fault-tolerant infrastructure for LLM research ✦
       </h4>
       I take great pleasure in deploying on bare-metal machines and building
       tooling for infrastructure engineers. As a proud supporter of self-host
-      movement, I would like to use any opportunity to learn private networking and
+      movement, I would like to use any opportunity to learn linux virtualization, private networking, and
       cloud-native observability tools, especially pursuing experimental ventures like
       integrating WebAssembly to avoid long cold starts and over-provisioning.
       <br />
@@ -239,14 +239,14 @@ export default function Home() {
       and mitigate excessive CPU usage, instrumenting the Linux scheduler with
       ftrace and perfetto, analyzing request latency using sampling profilers
       like gprof, trying <s>failing</s>  to configure Kubernetes for optimal
-      workload performance, using pprof to optimize Go code & add more spells under my sleeve.
+      workload performance, using pprof to optimize Go code, & add more spells under my sleeve.
       <h4 className="font-semibold pt-4 text-center">
-        ✦ Hacking hardware architectures & performance engineering{" "} ✦
+        ✦ Hacking hardware architectures & high-performance, low-latency applications ✦
       </h4>
-      Building robust, low-latency hardware & applications to serve billions of
+      Building robust low-latency hardware & applications to serve billions of
       users has always been on my career bucket list. I would actually love to put
-      my EE degree in use, particularly on FPGA engineering with OCaml,
-      chip floorplanning with deep reinforcement-learning, and developing microprocessor architectures.
+      my EE degree to use, particularly in FPGA engineering with OCaml,
+      chip floorplanning with deep reinforcement learning, and microprocessor architecture design.
       I'd like to tear down machine learning accelerators such as Google’s TPU and Groq's LPU, and
       consumer hardware like Apple's AirTag.
       <br />
@@ -258,13 +258,20 @@ export default function Home() {
       <h2 className="font-semibold pt-8">Connect</h2>
       <center>
         <blockquote>
-          <i>“ It takes a village to raise a child ”</i>
+          <i>“ It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better.</i>
+          <br />
+          <br />
+         <i> The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; </i>
+          <br />
+          <br />
+        <i> but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat ”</i>
+          <br />
+          <br />
         </blockquote>
-        <i> - African Proverb</i>
+        <i> Theodore Roosevelt, 26th president of the United States of America </i>
       </center>
       <p>
-        <strong>Paying kindness forward </strong> is an important virtue  I try to
-        prioritize and practice. I'm always open to discussing career plans,
+        <strong>Kindness</strong> is an important value I try to practice at every opportunity I get. I'm always open to discussing career plans,
         startup ideas, or even research interests. Feel free to get in touch for
         a coffee chat through the contacts below. I particularly encourage
         students from underrepresented groups or disadvantaged backgrounds who aspire to break into systems
