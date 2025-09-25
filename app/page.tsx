@@ -41,7 +41,7 @@ export default function Home() {
         <p>
           Thanks for visiting my <tt>about_me.md</tt> ! I'm a kernel-grade computer systems engineer and researcher 
           with a strong focus on databases, distributed systems, and machine learning systems.
-          I'm currently pursuing my master's in computer science at {"  "} <b>New York University</b> and did my undergrad in electrical
+          I'm currently pursuing my master's in computer science at <b>New York University</b> and did my undergrad in electrical
           and computer engineering, where I spent my time hacking around with everything fun from <b>large-language models</b> to{" "}
           <b>embedded microcontrollers</b>. I like programming in Rust, OCaml, C++, and Python.
         </p>
@@ -65,9 +65,8 @@ export default function Home() {
 
         </p>
         <p>
-          Outside of my career, you can find me spending all my time with my beautiful partner and cats. {" "}
-          I like playing video games, reading manga and literature, and watching films, anime, tv-shows, random youtube essays, and podcasts. 
-          I also plan to break into brazilian jiu-jitsu, wrestling, and muay-thai. Lately I've been trying to get good at fine dining, finance, and
+          Outside of my career, you can find me spending all my time with my beautiful partner and cats. I like playing video games and
+          watching films & anime. I plan to break into wrestling and muay-thai. Lately, I've been trying to get good at fine dining, finance, and
           math/lingustic/informatics olympiads. I try to live a simple life as much as I can, with my biggest inspiration
           being <a href = "https://kingofthehill.fandom.com/wiki/Hank_Hill">Hank</a> from King of the Hill. 
         </p>
