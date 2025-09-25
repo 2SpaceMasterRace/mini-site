@@ -39,16 +39,16 @@ export default function Home() {
       <AnimatedName />
       <div className="text-gray-800 space-y-4 leading-snug">
         <p>
-          Thanks for visiting my <tt>about_me.md</tt> ! I'm a kernel-grade computer systems engineer and researcher
+          Thanks for visiting my <tt>about_me.md</tt> ! I'm a kernel-grade computer systems engineer and researcher 
           with a strong focus on databases, distributed systems, and machine learning systems.
           I'm currently pursuing my master's in computer science at New York University and did my undergrad in electrical
           and computer engineering, where I spent my time hacking around with everything fun from <b>large-language models</b> to{" "}
-          <b>embedded microcontrollers</b>. I like programming in Rust, OCaml, C++, Lua, and Python.
+          <b>embedded microcontrollers</b>. I like programming in Rust, OCaml, C++, and Python.
         </p>
         <p>
          I've worked as a Summer Research Intern @ <b>UCSC (Go Slugs!)</b> and as a lab member at <a href="https://tech4good.soe.ucsc.edu/"> Tech4Good </a> for over a year. 
-          I was also fortunate enough to work with <a href = "https://kcsrk.info/"> Prof. KC Sivaramakrishnan </a> at <b>Indian Institute Of Technology, Madras</b> on <a href="https://github.com/janestreet/hardcaml"> Hardcaml </a>, Jane Street's embedded DSL for designing and testing hardware designs
-        . Over the years, I’ve become deeply entrenched in the world of{" "}
+          I was also fortunate enough to work with <a href = "https://kcsrk.info/"> Prof. KC Sivaramakrishnan </a> at <b>Indian Institute Of Technology, Madras</b> on <a href="https://github.com/janestreet/hardcaml"> Hardcaml</a>, Jane Street's embedded DSL for designing and testing hardware designs.
+          Over the years, I’ve become deeply entrenched in the world of{" "}
           <b>
             performance engineering, low-level systems programming, AI research, and deep-learning infrastructure.{" "}
           </b>
@@ -56,18 +56,18 @@ export default function Home() {
         <p>
           I lead the <a href = "https://github.com/Arcane-Systems-Reading-Group"><b>Arcane Systems Reading Group</b></a>, a collective of systems nerds
           who explore niche topics like compilers, databases, operating system kernels, formal methods,
-          distributed systems, large-scale infrastructure, compute orchestration and performance optimization. 
+          distributed systems, large-scale infrastructure, compute orchestration, and performance optimization. 
           I also write essays on deep-tech in <a href = "https://substack.com/@nanodijkstra">Substack</a> and
           stream development on <a href = "https://discord.com/invite/BtzP3eH4R3">Discord</a>,<a href = "https://www.twitch.tv/nanod1jkstra"> Twitch </a> 
            and <a href = "https://www.youtube.com/@ArcaneSystemsReadingGroup"> Youtube</a>. 
-          My career goals can essentially be boiled down to producing the same influence as {" "} <strong>Kanye West but for computer 
+          I hope to produce the same level of influence as {" "} <strong>Kanye West but for computer 
           science</strong> as a whole.
 
         </p>
         <p>
           Outside of my career, you can find me spending all my time with my beautiful wife. {" "}
           I like playing video games, reading manga and literature, and watching films, anime, tv-shows, random youtube essays, and podcasts. 
-          I also plan to break into brazilian jiu-jitsu, wrestling and muay-thai. Lately I've been trying to get good at fine dining, finance, and
+          I also plan to break into brazilian jiu-jitsu, wrestling, and muay-thai. Lately I've been trying to get good at fine dining, finance, and
           math/lingustic/informatics olympiads. I try to live a simple life as much as I can, with my biggest inspiration
           being <a href = "https://kingofthehill.fandom.com/wiki/Hank_Hill">Hank</a> from King of the Hill. 
 
@@ -96,12 +96,12 @@ export default function Home() {
             <br />
             <br />
  
-            • I learn relatively quickly, can hit the ground running and not afraid to debug complex codebases. I have genuine passion for delivering outstanding results.
+            • I learn relatively quickly, can hit the ground running, and love debugging complex codebases. I have genuine passion for delivering outstanding results.
             <br />
             <br />
  
-            • I'm a niche subset of T-shaped developer, and my operating principles were hugely inspired by <a href = "https://cdn.fastly.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf"> Valve's Employee Handbook </a>
-            and the blogs of <a href ="https://www.paulgraham.com/hwh.html"> Paul Graham </a> and <a href = "https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/"> Joel Spolsky </a>. 
+            • I'm a niche subset of T-shaped developer, and my operating principles were heavily inspired by <a href = "https://cdn.fastly.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf"> Valve's Employee Handbook </a>
+            and the blogs of <a href ="https://www.paulgraham.com/hwh.html"> Paul Graham </a> and <a href = "https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/"> Joel Spolsky</a>. 
 
             <br />
             <br />
@@ -115,16 +115,16 @@ export default function Home() {
             <br />
             <br />
 
-            •  Because of my ADHD, I thrive best in environments where I’m given autonomy rather than being micromanaged and need some amount of healthy personal mentorship.
+            •  Because of my ADHD, I thrive best in environments where I’m given autonomy rather than being micromanaged, and I also need a healthy level of mentorship to stay on track and grow meaningfully.
             <br />
             <br />
             • I tend to ask tons of questions and am a slow learner by nature.
             While it may take me a little longer than average to fully settle in, this allows me to maximize my long-term growth and impact. I like to build
-            what’s often called “tribal knowledge,” so I can contribute effectively and help team members quickly.
+            what’s often called “tribal knowledge”, so I can contribute effectively and help team members quickly.
 
           <br />
           <br />
-          • In the past, I pushed myself too hard and now working extremely long hours isn’t sustainable for me anymore.
+          • In the past, I pushed myself too hard and working extremely long hours are no longer sustainable.
           That said, I’m more than committed and resilient enough to put in the hours needed when things get tough, which they always do. 
 
           <br />
@@ -135,14 +135,12 @@ export default function Home() {
             </p>
         </div>
        <p>
-       Design and Analysis of Algorithms I, Introduction to Operating Systems, Artificial Intelligence I
-          I've also been deep diving into{" "}
-          <b>internals of Zig programming language</b>, writing my own{" "}
-          <b>Linux Kernel Module</b> in C and Zig, and experimenting on{" "}
-          <b>Hash Tables</b> to learn them on a deeper level. I'm trying to
-          build a habit of reading technical books and I've been enjoying{" "}
-          <b>Designing Data-Intensive Applications</b> by Martin Kleppmann &{" "}
-          <b>Algorithm Design</b> by Éva Tardos.{" "}
+          <b>Projects: </b>I've been deep diving into <b>Distributed Serverless Engines</b> in Python, writing my own <b>Linux Kernel Modules</b> in C,
+          and experimenting with <b>Hash Tables</b> in Rust to learn them on a fundamental level. 
+          <br/>
+          <br/>
+          <b>Books: </b>I've been enjoying reading <b>Database Internals</b> by Alex Petrov, <b>Operating Systems: Three Easy Pieces </b> 
+          by Andrea and Remzi Arpaci-Dusseau, and <b>Introduction to Algorithms</b> by Cormen, Leiserson, Rivest, and Stein.{" "}
         </p>
 
         <h2 className="font-semibold pt-4">Ongoing Projects</h2>
@@ -178,29 +176,39 @@ export default function Home() {
       <p>
         I enjoy building <b>novel systems</b> and {" "}
         <b>reliable tools</b> that work seamlessly and stand the test of
-        time. This was inspired by using and exploring the design of beautiful softwares 
+        time. This was inspired by using and exploring the design of beautiful software 
         such as <b>Vim/Emacs</b>, <b>Ripgrep</b>, <b>Fish shell</b>, <b>Linear</b>, <b>SQLite</b>,
         <b> Signal</b>, <b>Graphviz</b>, <b>Blender</b>, <b>Linux Mint</b>, and much more. 
       </p>
       <p>
-        My experiences allowed me to prioritize <b>ownership, autonomy</b> and{" "}
+        My experiences have taught me to prioritize <b>ownership, autonomy, </b> and{" "}
         align myself with a  <b>strong sense of mission</b> over my work. My process for building 
         cutting-edge systems is through rigorous engineering with creative exploration.
-        I strive to write simple and clean code that is incredibly well-tested enough to be
-        understandable, approachable, and thoughtful.
+        I strive to write simple and clean code that is incredibly well-tested, approachable,
+        and thoughtful.
         <br />
         <br />
 
-        I deeply care about my craft and tend to have healthy debates over various programming topics, especially with
-        senior engineers. My engineering philosophy is heavily inspired by{" "}
+        I deeply care about my craft and tend to have disuss various programming topics with
+        senior engineers and experts. My engineering philosophy is heavily inspired by{" "}
        <a href = "https://tigerstyle.dev/"><b>TIGER_STYLE</b></a>,
        <a href = "https://www.youtube.com/watch?v=IroPQ150F6c"><b> Andrew Kelley's Practical Data Oriented Design</b></a>,
         <a href = "https://matklad.github.io/2022/10/06/hard-mode-rust.html"><b> Hard-Mode Rust</b></a>,
         and some <a href = "https://www.youtube.com/watch?v=3n17wHe5wEw">elements</a> of <a href="https://www.youtube.com/watch?v=kZ1P8cHN3pY "> <b>functional programming</b></a>. 
-        Here are some of my professional interests in greater detail :
+        Here are some of my professional interests in greater detail:
       </p>
+
       <h4 className="font-semibold pt-4 text-center">
-        ✦ Supercomputers, Distributed Computing & Databases for Fun and Profit{" "} ✦
+        ✦ Writing custom GPU kernels & GPU performance tuning  ✦
+      </h4>
+      I’ve always had a deep fascination with GPUs ever since I played Crysis 3
+      as a kid. Now, I explore ways of writing my own high-performance 
+      CUDA kernels for TPUs, GPUs & AWS Trainium. I'd like to study the
+      performance characteristics of various GPU architectures and 
+      optimize compilers to leverage their hardware features like tensor cores.
+
+      <h4 className="font-semibold pt-4 text-center">
+        ✦ Supercomputing-scale compute & databases for fun and profit{" "} ✦
       </h4>
       One of my primary interests lies in designing and building novel,
       high-performance systems for machine learning, particularly at
@@ -208,51 +216,39 @@ export default function Home() {
       interesting projects like optimizing container runtimes, implementing
       distributed file systems, and building query engines like Apache DataFusion.
       <br />
-      Previous experience include exploring operating system design and HPC
-      network architectures, hacking high performance storage systems such as
-      Weka and Ceph, designing custom load-balancing algorithm to optimize
-      serving efficiency, breaking the CUDA compiler, and performance enhancing
-      virtual machines.
+      I love exploring operating system design and HPC network architectures,
+      hacking high performance storage systems like Weka and Ceph, 
+      designing custom load-balancing algorithm to optimize serving efficiency,
+      breaking the CUDA compiler, and enhancing virtual machines performance.
+
       <h4 className="font-semibold pt-4 text-center">
-        ✦ Writing Custom GPU Kernels for Machine Learning Systems{" "} ✦
-      </h4>
-      I’ve always had a deep fascination with GPUs ever since I played Crysis 3
-      as a kid. Now, I explore ways of writing my own high-performance GPU/CPU
-      compute kernels for fun and that led me down a rabbit hole of optimizing
-      CUDA kernels for TPUs, GPUs & AWS Trainium. I'd like to see how far I can
-      push modern-day GPUs by studying the performance characteristics of
-      various GPU architectures and optimizing compilers to leverage their
-      hardware features like tensor cores.
-      <h4 className="font-semibold pt-4 text-center">
-        ✦ Managing Infrastructure and Handling SEV-1 for Breakfast ✦
+        ✦ Building Infrastructure from scratch & handling SEV-1 for breakfast ✦
       </h4>
       I take great pleasure in deploying on bare-metal machines and building
       tooling for infrastructure engineers. As a proud supporter of self-host
-      movement, I have spent a good amount of time on private networking and
-      cloud-native observability tools. I like being experimental with my work -
-      e.g. integrating WebAssembly to avoid long cold starts and
-      over-provisioning.
+      movement, I would like to use any opportunity to learn private networking and
+      cloud-native observability tools, especially pursuing experimental ventures like
+      integrating WebAssembly to avoid long cold starts and over-provisioning.
       <br />
-      I'm not afraid to delve one level deeper using tools like eBPF to monitor
+      I'm especially interested in delving one level deeper using tools like eBPF to monitor
       and mitigate excessive CPU usage, instrumenting the Linux scheduler with
       ftrace and perfetto, analyzing request latency using sampling profilers
-      like gprof, trying and failing to configure Kubernetes for optimal
-      workload performance, using pprof to optimize Go code & maintain top
-      performance across services and more spells under my sleeve.
+      like gprof, trying <s>failing</s>  to configure Kubernetes for optimal
+      workload performance, using pprof to optimize Go code & add more spells under my sleeve.
       <h4 className="font-semibold pt-4 text-center">
-        ✦ Hacking Hardware Architectures & Performance Engineering{" "} ✦
+        ✦ Hacking hardware architectures & performance engineering{" "} ✦
       </h4>
       Building robust, low-latency hardware & applications to serve billions of
-      users has always been a career goal of mine. I would actually love to put
-      my EE degree in use particularly on ASIC chip design and developing
-      microprocessor architecture. I'd seize any opportunity on tearing down ML
-      accelerators such as Google’s TPU & Groq's LPU and consumer hardware like
-      Apple's AirTag. <br />I also have a good amount of battle scars in
-      performance and backend engineering, especially in debugging kernel-level
-      network latency spikes in containers, tuning JVM Garbage collection &
-      developing GPU Task Schedulers, and implementing low-latency
+      users has always been on my career bucket list. I would actually love to put
+      my EE degree in use, particularly on FPGA engineering with OCaml,
+      chip floorplanning with deep reinforcement-learning, and developing microprocessor architectures.
+      I'd like to tear down machine learning accelerators such as Google’s TPU and Groq's LPU, and
+      consumer hardware like Apple's AirTag.
+      <br />
+      Above the hardware stack, I am interested in debugging kernel-level network latency spikes in containers,
+      tuning garbage collectors, developing task schedulers, and implementing low-latency,
       high-throughput sampling for large language models. Other strong interests
-      include orchestration engines, block storage systems and compute services.
+      include orchestration engines, block storage systems, and compute services.
 
       <h2 className="font-semibold pt-8">Connect</h2>
       <center>
