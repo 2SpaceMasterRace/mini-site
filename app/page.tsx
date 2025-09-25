@@ -41,7 +41,7 @@ export default function Home() {
         <p>
           Thanks for visiting my <tt>about_me.md</tt> ! I'm a kernel-grade computer systems engineer and researcher 
           with a strong focus on databases, distributed systems, and machine learning systems.
-          I'm currently pursuing my master's in computer science at New York University and did my undergrad in electrical
+          I'm currently pursuing my master's in computer science at {"  "} <b>New York University</b> and did my undergrad in electrical
           and computer engineering, where I spent my time hacking around with everything fun from <b>large-language models</b> to{" "}
           <b>embedded microcontrollers</b>. I like programming in Rust, OCaml, C++, and Python.
         </p>
@@ -65,12 +65,11 @@ export default function Home() {
 
         </p>
         <p>
-          Outside of my career, you can find me spending all my time with my beautiful wife. {" "}
+          Outside of my career, you can find me spending all my time with my beautiful partner and cats. {" "}
           I like playing video games, reading manga and literature, and watching films, anime, tv-shows, random youtube essays, and podcasts. 
           I also plan to break into brazilian jiu-jitsu, wrestling, and muay-thai. Lately I've been trying to get good at fine dining, finance, and
           math/lingustic/informatics olympiads. I try to live a simple life as much as I can, with my biggest inspiration
           being <a href = "https://kingofthehill.fandom.com/wiki/Hank_Hill">Hank</a> from King of the Hill. 
-
         </p>
 
         <h2 className="font-semibold pt-4">Current</h2>
@@ -145,21 +144,28 @@ export default function Home() {
 
         <h2 className="font-semibold pt-4">Ongoing Projects</h2>
         <p>
-          My projects reflect my interests in ai infrastructure and systems-level programming. Here are some projects I’m currently working on:
+          I'm currently focusing on hacking around the entire machine learning stack (models, kernels, compilers, and hardware)
+          and database stack (data models, storage engines, query engines, and distributed systems) from scratch. Unfortunately, my other projects
+          have been on hold, incuding my open-source project Memspect.
         </p>
         <ul className="list-disc pl-6 space-y-2">
           <li>
-            <b>Memspect</b> [C, Rust, LLVM]: A cool static analysis framework
+            <b>Memspect</b> [C, Rust, LLVM] <a href = "https://youtu.be/aBAtV2W9BN0?si=k1ZvIVf5XKxKpTCE">[Talk]</a>: A cool static analysis framework
             for real-world C codebases that focuses on fast and accurate memory
             debugging. Gained arcane knowledge of compiler internals in the
             process. Started off as a final-year project and was presented at
-            two separate conferences.
+            India's first compiler workshop 
           </li>
           <li>
-            <b>Loveless</b> [Go, Zig]: A cool edge database that focuses on
-            auto-scaling and performance to handle massive multiplayer
-            environments. Started building it as part of Summer of Shipping 2024
-            after being inspired by Tiger Beetle and Turso.
+            <b>Tachyon</b> [Rust]: Building a mini LSM-tree storage engine from scratch. Currently implementing core components including
+            mutable/immutable memtables, SST (sorted string table) files, write-ahead logging, and configurable compaction algorithms that are used
+            in production systems
+          </li>
+          <li>
+            <b>TinyTorch</b> [Python, CUDA]: Developing a PyTorch-inspired deep learning framework from scratch. Currently implementing
+            automatic differentiation, GPU-accelerated tensor operations, and neural network modules with custom CUDA kernels for matrix multiplication,
+            convolution, and attention mechanisms
+
           </li>
         </ul>
         <p>
@@ -169,7 +175,7 @@ export default function Home() {
           metadata & logs, tiny open-source machine learning compiler, library
           containing state-of-the-art algorithms for distributed deep learning,
           inference engine from scratch, building my own network stack for p2p
-          file sharing and custom GPU orchestrator for managing H100 clusters.
+          file sharing, and custom GPU orchestrator for managing H100 clusters.
         </p>
       </div>
       <h2 className="font-semibold pt-4">Career Interests</h2>
