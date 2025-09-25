@@ -66,7 +66,7 @@ export default function Home() {
         </p>
         <p>
           Outside of my career, you can find me spending all my time with my beautiful partner and cats. I like playing video games and
-          watching films & anime. I plan to break into wrestling and muay-thai. Lately, I've been trying to get good at fine dining, finance, and
+          watching films & anime. I've been trying to get good at fine dining, muay-thai, and
           math/lingustic/informatics olympiads. I try to live a simple life as much as I can, with my biggest inspiration
           being <a href = "https://kingofthehill.fandom.com/wiki/Hank_Hill">Hank</a> from King of the Hill. 
         </p>
